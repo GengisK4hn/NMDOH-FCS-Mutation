@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+venv_supracode/
+*.egg-info/
+
+# Outputs
+*.log
+*.tmp
+*.bak
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large temporary files
+sequences/nm_2026_all.fasta
+sequences/p681r_sequences.fasta

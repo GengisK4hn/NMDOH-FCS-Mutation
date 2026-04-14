@@ -1,0 +1,1889 @@
+Multiple records in test_sequences.fasta, using first record
+Multiple records in test_analysis.fasta, using first record
+Multiple records in Figure1Figure2_032321.fasta, using first record
+Multiple records in Influenza_B_virus_part12.fasta, using first record
+Multiple records in Influenza_B_virus_part4.fasta, using first record
+Multiple records in Influenza_B_virus_part108.fasta, using first record
+Multiple records in Influenza_B_virus_part34.fasta, using first record
+Multiple records in Influenza_B_virus_part79.fasta, using first record
+Multiple records in Influenza_B_virus_part54.fasta, using first record
+Multiple records in Influenza_B_virus_part31.fasta, using first record
+Multiple records in Influenza_B_virus_part14.fasta, using first record
+Multiple records in Influenza_B_virus_part73.fasta, using first record
+Multiple records in Influenza_B_virus_part72.fasta, using first record
+Multiple records in Influenza_B_virus_part50.fasta, using first record
+Multiple records in Influenza_B_virus_part47.fasta, using first record
+Multiple records in Influenza_B_virus_part116.fasta, using first record
+Multiple records in Influenza_B_virus_part88.fasta, using first record
+Multiple records in Influenza_B_virus_part100.fasta, using first record
+Multiple records in Influenza_B_virus_part114.fasta, using first record
+Multiple records in Influenza_B_virus_part18.fasta, using first record
+Multiple records in Influenza_B_virus_part45.fasta, using first record
+Multiple records in Influenza_B_virus_part83.fasta, using first record
+Multiple records in Influenza_B_virus_part56.fasta, using first record
+Multiple records in Influenza_B_virus_part97.fasta, using first record
+Multiple records in Influenza_B_virus_part49.fasta, using first record
+Multiple records in Influenza_B_virus_part106.fasta, using first record
+Multiple records in Influenza_B_virus_part22.fasta, using first record
+Multiple records in Influenza_B_virus_part75.fasta, using first record
+Multiple records in Influenza_B_virus_part95.fasta, using first record
+Multiple records in Influenza_B_virus_part27.fasta, using first record
+Multiple records in Influenza_B_virus_part23.fasta, using first record
+Multiple records in Influenza_B_virus_part76.fasta, using first record
+Multiple records in Influenza_B_virus_part46.fasta, using first record
+Multiple records in Influenza_B_virus_part103.fasta, using first record
+Multiple records in Influenza_B_virus_part6.fasta, using first record
+Multiple records in Influenza_B_virus_part105.fasta, using first record
+Multiple records in Influenza_B_virus_part37.fasta, using first record
+Multiple records in Influenza_B_virus_part8.fasta, using first record
+Multiple records in Influenza_B_virus_part5.fasta, using first record
+Multiple records in Influenza_B_virus_part112.fasta, using first record
+Multiple records in Influenza_B_virus_part60.fasta, using first record
+Multiple records in Influenza_B_virus_part91.fasta, using first record
+Multiple records in Influenza_B_virus_part9.fasta, using first record
+Multiple records in Influenza_B_virus_part11.fasta, using first record
+Multiple records in Influenza_B_virus_part90.fasta, using first record
+Multiple records in Influenza_B_virus_part25.fasta, using first record
+Multiple records in Influenza_B_virus_part71.fasta, using first record
+Multiple records in Influenza_B_virus_part24.fasta, using first record
+Multiple records in Influenza_B_virus_part13.fasta, using first record
+Multiple records in Influenza_B_virus_part16.fasta, using first record
+Multiple records in Influenza_B_virus_part113.fasta, using first record
+Multiple records in Influenza_B_virus_part125.fasta, using first record
+Multiple records in Influenza_B_virus_part44.fasta, using first record
+Multiple records in Influenza_B_virus_part94.fasta, using first record
+Multiple records in Influenza_B_virus_part59.fasta, using first record
+Multiple records in Influenza_B_virus_part115.fasta, using first record
+Multiple records in Influenza_B_virus_part98.fasta, using first record
+Multiple records in Influenza_B_virus_part74.fasta, using first record
+Multiple records in Influenza_B_virus_part62.fasta, using first record
+Multiple records in Influenza_B_virus_part96.fasta, using first record
+Multiple records in Influenza_B_virus_part61.fasta, using first record
+Multiple records in Influenza_B_virus_part107.fasta, using first record
+Multiple records in Influenza_B_virus_part68.fasta, using first record
+Multiple records in Influenza_B_virus_part65.fasta, using first record
+Multiple records in Influenza_B_virus_part85.fasta, using first record
+Multiple records in Influenza_B_virus_part32.fasta, using first record
+Multiple records in Influenza_B_virus_part86.fasta, using first record
+Multiple records in Influenza_B_virus_part80.fasta, using first record
+Multiple records in Influenza_B_virus_part40.fasta, using first record
+Multiple records in Influenza_B_virus_part122.fasta, using first record
+Multiple records in Influenza_B_virus_part93.fasta, using first record
+Multiple records in Influenza_B_virus_part78.fasta, using first record
+Multiple records in Influenza_B_virus_part36.fasta, using first record
+Multiple records in Influenza_B_virus_part57.fasta, using first record
+Multiple records in Influenza_B_virus_part119.fasta, using first record
+Multiple records in Influenza_B_virus_part124.fasta, using first record
+Multiple records in Influenza_B_virus_part67.fasta, using first record
+Multiple records in Influenza_B_virus_part63.fasta, using first record
+Multiple records in Influenza_B_virus_part15.fasta, using first record
+Multiple records in Influenza_B_virus_part29.fasta, using first record
+Multiple records in Influenza_B_virus_part89.fasta, using first record
+Multiple records in Influenza_B_virus_part7.fasta, using first record
+Multiple records in Influenza_B_virus_part38.fasta, using first record
+Multiple records in Influenza_B_virus_part70.fasta, using first record
+Multiple records in Influenza_B_virus_part82.fasta, using first record
+Multiple records in Influenza_B_virus_part87.fasta, using first record
+Multiple records in Influenza_B_virus_part69.fasta, using first record
+Multiple records in Influenza_B_virus_part123.fasta, using first record
+Multiple records in Influenza_B_virus_part111.fasta, using first record
+Multiple records in Influenza_B_virus_part1.fasta, using first record
+Multiple records in Influenza_B_virus_part2.fasta, using first record
+Multiple records in Influenza_B_virus_part33.fasta, using first record
+Multiple records in Influenza_B_virus_part120.fasta, using first record
+Multiple records in Influenza_B_virus_part35.fasta, using first record
+Multiple records in Influenza_B_virus_part26.fasta, using first record
+Multiple records in Influenza_B_virus_part20.fasta, using first record
+Multiple records in Influenza_B_virus_part92.fasta, using first record
+Multiple records in Influenza_B_virus_part126.fasta, using first record
+Multiple records in Influenza_B_virus_part77.fasta, using first record
+Multiple records in Influenza_B_virus_part10.fasta, using first record
+Multiple records in Influenza_B_virus_part39.fasta, using first record
+Multiple records in Influenza_B_virus_part117.fasta, using first record
+Multiple records in Influenza_B_virus_part101.fasta, using first record
+Multiple records in Influenza_B_virus_part52.fasta, using first record
+Multiple records in Influenza_B_virus_part109.fasta, using first record
+Multiple records in Influenza_B_virus_part99.fasta, using first record
+Multiple records in Influenza_B_virus_part121.fasta, using first record
+Multiple records in Influenza_B_virus_part66.fasta, using first record
+Multiple records in Influenza_B_virus_part51.fasta, using first record
+Multiple records in Influenza_B_virus_part43.fasta, using first record
+Multiple records in Influenza_B_virus_part102.fasta, using first record
+Multiple records in Influenza_B_virus_part30.fasta, using first record
+Multiple records in Influenza_B_virus_part19.fasta, using first record
+Multiple records in Influenza_B_virus_part118.fasta, using first record
+Multiple records in Influenza_B_virus_part48.fasta, using first record
+Multiple records in Influenza_B_virus_part41.fasta, using first record
+Multiple records in Influenza_B_virus_part28.fasta, using first record
+Multiple records in Influenza_B_virus_part58.fasta, using first record
+Multiple records in Influenza_B_virus_part21.fasta, using first record
+Multiple records in Influenza_B_virus_part84.fasta, using first record
+Multiple records in Influenza_B_virus_part17.fasta, using first record
+Multiple records in Influenza_B_virus_part55.fasta, using first record
+Multiple records in Influenza_B_virus_part53.fasta, using first record
+Multiple records in Influenza_B_virus_part110.fasta, using first record
+Multiple records in Influenza_B_virus_part42.fasta, using first record
+Multiple records in Influenza_B_virus_part81.fasta, using first record
+Multiple records in Influenza_B_virus_part64.fasta, using first record
+Multiple records in Influenza_B_virus_part104.fasta, using first record
+Multiple records in Influenza_B_virus_part3.fasta, using first record
+Multiple records in vector_db.fasta, using first record
+Multiple records in promoter_db.fasta, using first record
+Multiple records in unique_sequences.fasta, using first record
+Multiple records in LKUA01_part202.fasta, using first record
+Multiple records in AGQN01_part265.fasta, using first record
+Multiple records in AGQN01_part12.fasta, using first record
+Multiple records in AGQN01_part319.fasta, using first record
+Multiple records in LKUA01_part20.fasta, using first record
+Multiple records in LKUA01_part16.fasta, using first record
+Multiple records in LKUB01_part7.fasta, using first record
+Multiple records in LKUB01_part63.fasta, using first record
+Multiple records in AGQN01_part119.fasta, using first record
+Multiple records in AGQN01_part52.fasta, using first record
+Multiple records in LKUA01_part230.fasta, using first record
+Multiple records in pUC19_part128.fasta, using first record
+Multiple records in LKUA01_part57.fasta, using first record
+Multiple records in pUC19_part166.fasta, using first record
+Multiple records in LKUA01_part61.fasta, using first record
+Multiple records in LKUA01_part124.fasta, using first record
+Multiple records in pUC19_part156.fasta, using first record
+Multiple records in LKUA01_part229.fasta, using first record
+Multiple records in LKUA01_part252.fasta, using first record
+Multiple records in pUC19_part64.fasta, using first record
+Multiple records in pUC19_part19.fasta, using first record
+Multiple records in AGQN01_part159.fasta, using first record
+Multiple records in AGQN01_part273.fasta, using first record
+Multiple records in LKUB01_part36.fasta, using first record
+Multiple records in AGQN01_part249.fasta, using first record
+Multiple records in LKUA01_part111.fasta, using first record
+Multiple records in LKUB01_part40.fasta, using first record
+Multiple records in LKUB01_part152.fasta, using first record
+Multiple records in LKUB01_part8.fasta, using first record
+Multiple records in AGQN01_part258.fasta, using first record
+Multiple records in AGQN01_part336.fasta, using first record
+Multiple records in LKUA01_part180.fasta, using first record
+Multiple records in AGQN01_part290.fasta, using first record
+Multiple records in LKUB01_part92.fasta, using first record
+Multiple records in AGQN01_part324.fasta, using first record
+Multiple records in pUC19_part94.fasta, using first record
+Multiple records in pUC19_part25.fasta, using first record
+Multiple records in AGQN01_part90.fasta, using first record
+Multiple records in LKUB01_part19.fasta, using first record
+Multiple records in LKUA01_part251.fasta, using first record
+Multiple records in LKUB01_part41.fasta, using first record
+Multiple records in LKUB01_part67.fasta, using first record
+Multiple records in AGQN01_part190.fasta, using first record
+Multiple records in AGQN01_part327.fasta, using first record
+Multiple records in LKUB01_part172.fasta, using first record
+Multiple records in AGQN01_part17.fasta, using first record
+Multiple records in LKUA01_part172.fasta, using first record
+Multiple records in pUC19_part85.fasta, using first record
+Multiple records in LKUA01_part167.fasta, using first record
+Multiple records in AGQN01_part147.fasta, using first record
+Multiple records in LKUB01_part159.fasta, using first record
+Multiple records in LKUA01_part14.fasta, using first record
+Multiple records in LKUB01_part12.fasta, using first record
+Multiple records in MNPR01_part2.fasta, using first record
+Multiple records in pBluescript_part7.fasta, using first record
+Multiple records in pUC19_part93.fasta, using first record
+Multiple records in AGQN01_part43.fasta, using first record
+Multiple records in AGQN01_part320.fasta, using first record
+Multiple records in LKUA01_part107.fasta, using first record
+Multiple records in AGQN01_part5.fasta, using first record
+Multiple records in LKUB01_part62.fasta, using first record
+Multiple records in pBluescript_part12.fasta, using first record
+Multiple records in LKUA01_part215.fasta, using first record
+Multiple records in AGQN01_part137.fasta, using first record
+Multiple records in LKUA01_part4.fasta, using first record
+Multiple records in AGQN01_part322.fasta, using first record
+Multiple records in pUC19_part111.fasta, using first record
+Multiple records in pUC19_part4.fasta, using first record
+Multiple records in LKUB01_part73.fasta, using first record
+Multiple records in LKUA01_part274.fasta, using first record
+Multiple records in AGQN01_part318.fasta, using first record
+Multiple records in pUC19_part80.fasta, using first record
+Multiple records in AGQN01_part195.fasta, using first record
+Multiple records in LKUA01_part205.fasta, using first record
+Multiple records in LKUB01_part128.fasta, using first record
+Multiple records in LKUA01_part130.fasta, using first record
+Multiple records in AGQN01_part172.fasta, using first record
+Multiple records in AGQN01_part301.fasta, using first record
+Multiple records in pUC19_part29.fasta, using first record
+Multiple records in pUC19_part95.fasta, using first record
+Multiple records in LKUB01_part167.fasta, using first record
+Multiple records in LKUA01_part142.fasta, using first record
+Multiple records in AGQN01_part197.fasta, using first record
+Multiple records in LKUA01_part181.fasta, using first record
+Multiple records in AGQN01_part86.fasta, using first record
+Multiple records in AGQN01_part304.fasta, using first record
+Multiple records in Influenza_A_virus_part13.fasta, using first record
+Multiple records in pUC19_part41.fasta, using first record
+Multiple records in LKUA01_part71.fasta, using first record
+Multiple records in AGQN01_part72.fasta, using first record
+Multiple records in AGQN01_part11.fasta, using first record
+Multiple records in LKUA01_part293.fasta, using first record
+Multiple records in AGQN01_part272.fasta, using first record
+Multiple records in AGQN01_part221.fasta, using first record
+Multiple records in LKUA01_part291.fasta, using first record
+Multiple records in pUC19_part131.fasta, using first record
+Multiple records in AGQN01_part53.fasta, using first record
+Multiple records in LKUA01_part17.fasta, using first record
+Multiple records in AGQN01_part237.fasta, using first record
+Multiple records in LKUA01_part31.fasta, using first record
+Multiple records in LKUB01_part55.fasta, using first record
+Multiple records in pUC19_part51.fasta, using first record
+Multiple records in AGQN01_part326.fasta, using first record
+Multiple records in AGQN01_part246.fasta, using first record
+Multiple records in LKUA01_part105.fasta, using first record
+Multiple records in LKUA01_part63.fasta, using first record
+Multiple records in AGQN01_part139.fasta, using first record
+Multiple records in pUC19_part49.fasta, using first record
+Multiple records in AGQN01_part141.fasta, using first record
+Multiple records in AGQN01_part35.fasta, using first record
+Multiple records in AGQN01_part16.fasta, using first record
+Multiple records in LKUA01_part58.fasta, using first record
+Multiple records in LKUA01_part159.fasta, using first record
+Multiple records in LKUB01_part58.fasta, using first record
+Multiple records in AGQN01_part110.fasta, using first record
+Multiple records in LKUA01_part139.fasta, using first record
+Multiple records in pUC19_part67.fasta, using first record
+Multiple records in AGQN01_part158.fasta, using first record
+Multiple records in LKUB01_part118.fasta, using first record
+Multiple records in pUC19_part163.fasta, using first record
+Multiple records in AGQN01_part150.fasta, using first record
+Multiple records in LKUA01_part169.fasta, using first record
+Multiple records in Influenza_A_virus_part18.fasta, using first record
+Multiple records in pUC19_part126.fasta, using first record
+Multiple records in LKUB01_part130.fasta, using first record
+Multiple records in AGQN01_part50.fasta, using first record
+Multiple records in LKUA01_part144.fasta, using first record
+Multiple records in pUC19_part141.fasta, using first record
+Multiple records in LKUB01_part121.fasta, using first record
+Multiple records in pUC19_part71.fasta, using first record
+Multiple records in AGQN01_part184.fasta, using first record
+Multiple records in AGQN01_part58.fasta, using first record
+Multiple records in AGQN01_part295.fasta, using first record
+Multiple records in LKUA01_part72.fasta, using first record
+Multiple records in LKUA01_part289.fasta, using first record
+Multiple records in pUC19_part125.fasta, using first record
+Multiple records in LKUA01_part196.fasta, using first record
+Multiple records in AGQN01_part131.fasta, using first record
+Multiple records in LKUA01_part174.fasta, using first record
+Multiple records in AGQN01_part25.fasta, using first record
+Multiple records in AGQN01_part292.fasta, using first record
+Multiple records in AGQN01_part129.fasta, using first record
+Multiple records in AGQN01_part294.fasta, using first record
+Multiple records in AGQN01_part148.fasta, using first record
+Multiple records in AGQN01_part227.fasta, using first record
+Multiple records in LKUA01_part218.fasta, using first record
+Multiple records in MNPR01_part12.fasta, using first record
+Multiple records in LKUA01_part222.fasta, using first record
+Multiple records in pUC19_part134.fasta, using first record
+Multiple records in AGQN01_part151.fasta, using first record
+Multiple records in LKUB01_part69.fasta, using first record
+Multiple records in LKUB01_part146.fasta, using first record
+Multiple records in LKUA01_part117.fasta, using first record
+Multiple records in AGQN01_part47.fasta, using first record
+Multiple records in LKUB01_part90.fasta, using first record
+Multiple records in LKUA01_part295.fasta, using first record
+Multiple records in LKUA01_part1.fasta, using first record
+Multiple records in pUC19_part20.fasta, using first record
+Multiple records in AGQN01_part176.fasta, using first record
+Multiple records in LKUA01_part195.fasta, using first record
+Multiple records in AGQN01_part216.fasta, using first record
+Multiple records in LKUA01_part106.fasta, using first record
+Multiple records in pUC19_part39.fasta, using first record
+Multiple records in LKUB01_part64.fasta, using first record
+Multiple records in pUC19_part48.fasta, using first record
+Multiple records in LKUA01_part184.fasta, using first record
+Multiple records in LKUA01_part272.fasta, using first record
+Multiple records in AGQN01_part264.fasta, using first record
+Multiple records in pUC19_part169.fasta, using first record
+Multiple records in AGQN01_part291.fasta, using first record
+Multiple records in LKUA01_part201.fasta, using first record
+Multiple records in LKUB01_part109.fasta, using first record
+Multiple records in AGQN01_part104.fasta, using first record
+Multiple records in LKUA01_part168.fasta, using first record
+Multiple records in AGQN01_part10.fasta, using first record
+Multiple records in LKUA01_part73.fasta, using first record
+Multiple records in pUC19_part175.fasta, using first record
+Multiple records in pUC19_part123.fasta, using first record
+Multiple records in AGQN01_part63.fasta, using first record
+Multiple records in LKUA01_part175.fasta, using first record
+Multiple records in AGQN01_part233.fasta, using first record
+Multiple records in Influenza_A_virus_part12.fasta, using first record
+Multiple records in LKUA01_part87.fasta, using first record
+Multiple records in pUC19_part76.fasta, using first record
+Multiple records in LKUA01_part54.fasta, using first record
+Multiple records in LKUB01_part157.fasta, using first record
+Multiple records in LKUA01_part38.fasta, using first record
+Multiple records in Influenza_A_virus_part10.fasta, using first record
+Multiple records in LKUB01_part85.fasta, using first record
+Multiple records in LKUA01_part67.fasta, using first record
+Multiple records in pUC19_part107.fasta, using first record
+Multiple records in pUC19_part60.fasta, using first record
+Multiple records in AGQN01_part242.fasta, using first record
+Multiple records in AGQN01_part24.fasta, using first record
+Multiple records in AGQN01_part111.fasta, using first record
+Multiple records in AGQN01_part279.fasta, using first record
+Multiple records in LKUA01_part108.fasta, using first record
+Multiple records in LKUA01_part131.fasta, using first record
+Multiple records in AGQN01_part101.fasta, using first record
+Multiple records in Influenza_A_virus_part15.fasta, using first record
+Multiple records in pBluescript_part14.fasta, using first record
+Multiple records in LKUA01_part126.fasta, using first record
+Multiple records in pBluescript_part5.fasta, using first record
+Multiple records in AGQN01_part191.fasta, using first record
+Multiple records in pUC19_part38.fasta, using first record
+Multiple records in LKUA01_part125.fasta, using first record
+Multiple records in LKUA01_part122.fasta, using first record
+Multiple records in LKUB01_part151.fasta, using first record
+Multiple records in pUC19_part110.fasta, using first record
+Multiple records in pUC19_part14.fasta, using first record
+Multiple records in pUC19_part102.fasta, using first record
+Multiple records in LKUA01_part182.fasta, using first record
+Multiple records in AGQN01_part77.fasta, using first record
+Multiple records in LKUA01_part64.fasta, using first record
+Multiple records in pUC19_part171.fasta, using first record
+Multiple records in LKUA01_part268.fasta, using first record
+Multiple records in AGQN01_part255.fasta, using first record
+Multiple records in LKUB01_part47.fasta, using first record
+Multiple records in LKUA01_part114.fasta, using first record
+Multiple records in AGQN01_part334.fasta, using first record
+Multiple records in LKUB01_part147.fasta, using first record
+Multiple records in pUC19_part96.fasta, using first record
+Multiple records in LKUA01_part6.fasta, using first record
+Multiple records in pUC19_part162.fasta, using first record
+Multiple records in LKUB01_part53.fasta, using first record
+Multiple records in LKUA01_part206.fasta, using first record
+Multiple records in AGQN01_part31.fasta, using first record
+Multiple records in LKUA01_part41.fasta, using first record
+Multiple records in AGQN01_part30.fasta, using first record
+Multiple records in pUC19_part170.fasta, using first record
+Multiple records in LKUB01_part158.fasta, using first record
+Multiple records in LKUA01_part19.fasta, using first record
+Multiple records in pUC19_part109.fasta, using first record
+Multiple records in LKUB01_part74.fasta, using first record
+Multiple records in AGQN01_part109.fasta, using first record
+Multiple records in LKUB01_part51.fasta, using first record
+Multiple records in LKUB01_part115.fasta, using first record
+Multiple records in AGQN01_part208.fasta, using first record
+Multiple records in AGQN01_part68.fasta, using first record
+Multiple records in AGQN01_part261.fasta, using first record
+Multiple records in AGQN01_part116.fasta, using first record
+Multiple records in LKUA01_part160.fasta, using first record
+Multiple records in AGQN01_part278.fasta, using first record
+Multiple records in LKUB01_part6.fasta, using first record
+Multiple records in LKUB01_part20.fasta, using first record
+Multiple records in LKUB01_part89.fasta, using first record
+Multiple records in LKUB01_part94.fasta, using first record
+Multiple records in LKUA01_part304.fasta, using first record
+Multiple records in LKUA01_part250.fasta, using first record
+Multiple records in LKUB01_part153.fasta, using first record
+Multiple records in AGQN01_part170.fasta, using first record
+Multiple records in LKUB01_part52.fasta, using first record
+Multiple records in LKUA01_part60.fasta, using first record
+Multiple records in LKUA01_part83.fasta, using first record
+Multiple records in pUC19_part100.fasta, using first record
+Multiple records in LKUA01_part70.fasta, using first record
+Multiple records in AGQN01_part337.fasta, using first record
+Multiple records in Influenza_A_virus_part4.fasta, using first record
+Multiple records in LKUA01_part45.fasta, using first record
+Multiple records in AGQN01_part37.fasta, using first record
+Multiple records in Influenza_A_virus_part11.fasta, using first record
+Multiple records in LKUB01_part127.fasta, using first record
+Multiple records in pUC19_part173.fasta, using first record
+Multiple records in LKUA01_part92.fasta, using first record
+Multiple records in AGQN01_part112.fasta, using first record
+Multiple records in AGQN01_part6.fasta, using first record
+Multiple records in pUC19_part36.fasta, using first record
+Multiple records in AGQN01_part8.fasta, using first record
+Multiple records in AGQN01_part45.fasta, using first record
+Multiple records in AGQN01_part165.fasta, using first record
+Multiple records in AGQN01_part162.fasta, using first record
+Multiple records in LKUA01_part270.fasta, using first record
+Multiple records in pUC19_part77.fasta, using first record
+Multiple records in pUC19_part99.fasta, using first record
+Multiple records in AGQN01_part215.fasta, using first record
+Multiple records in LKUB01_part155.fasta, using first record
+Multiple records in AGQN01_part229.fasta, using first record
+Multiple records in LKUA01_part294.fasta, using first record
+Multiple records in LKUA01_part200.fasta, using first record
+Multiple records in LKUA01_part13.fasta, using first record
+Multiple records in LKUA01_part249.fasta, using first record
+Multiple records in LKUB01_part170.fasta, using first record
+Multiple records in LKUB01_part106.fasta, using first record
+Multiple records in AGQN01_part96.fasta, using first record
+Multiple records in AGQN01_part29.fasta, using first record
+Multiple records in AGQN01_part212.fasta, using first record
+Multiple records in AGQN01_part296.fasta, using first record
+Multiple records in AGQN01_part146.fasta, using first record
+Multiple records in LKUA01_part43.fasta, using first record
+Multiple records in AGQN01_part55.fasta, using first record
+Multiple records in LKUB01_part123.fasta, using first record
+Multiple records in LKUB01_part131.fasta, using first record
+Multiple records in LKUB01_part80.fasta, using first record
+Multiple records in AGQN01_part160.fasta, using first record
+Multiple records in pUC19_part23.fasta, using first record
+Multiple records in LKUA01_part309.fasta, using first record
+Multiple records in AGQN01_part232.fasta, using first record
+Multiple records in Influenza_A_virus_part23.fasta, using first record
+Multiple records in AGQN01_part132.fasta, using first record
+Multiple records in LKUA01_part15.fasta, using first record
+Multiple records in AGQN01_part66.fasta, using first record
+Multiple records in LKUB01_part150.fasta, using first record
+Multiple records in pUC19_part52.fasta, using first record
+Multiple records in pUC19_part150.fasta, using first record
+Multiple records in AGQN01_part18.fasta, using first record
+Multiple records in AGQN01_part307.fasta, using first record
+Multiple records in LKUA01_part232.fasta, using first record
+Multiple records in AGQN01_part228.fasta, using first record
+Multiple records in pUC19_part1.fasta, using first record
+Multiple records in AGQN01_part286.fasta, using first record
+Multiple records in AGQN01_part240.fasta, using first record
+Multiple records in pUC19_part17.fasta, using first record
+Multiple records in AGQN01_part203.fasta, using first record
+Multiple records in MNPR01_part10.fasta, using first record
+Multiple records in AGQN01_part284.fasta, using first record
+Multiple records in AGQN01_part40.fasta, using first record
+Multiple records in LKUA01_part197.fasta, using first record
+Multiple records in AGQN01_part330.fasta, using first record
+Multiple records in LKUA01_part157.fasta, using first record
+Multiple records in LKUA01_part156.fasta, using first record
+Multiple records in LKUB01_part101.fasta, using first record
+Multiple records in LKUB01_part169.fasta, using first record
+Multiple records in LKUB01_part48.fasta, using first record
+Multiple records in LKUA01_part231.fasta, using first record
+Multiple records in MNPR01_part4.fasta, using first record
+Multiple records in LKUA01_part210.fasta, using first record
+Multiple records in LKUA01_part5.fasta, using first record
+Multiple records in LKUA01_part81.fasta, using first record
+Multiple records in AGQN01_part189.fasta, using first record
+Multiple records in LKUA01_part221.fasta, using first record
+Multiple records in LKUB01_part59.fasta, using first record
+Multiple records in AGQN01_part311.fasta, using first record
+Multiple records in LKUB01_part119.fasta, using first record
+Multiple records in LKUA01_part227.fasta, using first record
+Multiple records in LKUA01_part77.fasta, using first record
+Multiple records in pUC19_part5.fasta, using first record
+Multiple records in AGQN01_part263.fasta, using first record
+Multiple records in LKUB01_part139.fasta, using first record
+Multiple records in pUC19_part105.fasta, using first record
+Multiple records in LKUA01_part137.fasta, using first record
+Multiple records in LKUB01_part145.fasta, using first record
+Multiple records in pUC19_part55.fasta, using first record
+Multiple records in LKUA01_part110.fasta, using first record
+Multiple records in AGQN01_part144.fasta, using first record
+Multiple records in LKUB01_part38.fasta, using first record
+Multiple records in LKUA01_part80.fasta, using first record
+Multiple records in LKUA01_part292.fasta, using first record
+Multiple records in AGQN01_part21.fasta, using first record
+Multiple records in LKUA01_part37.fasta, using first record
+Multiple records in pUC19_part148.fasta, using first record
+Multiple records in AGQN01_part89.fasta, using first record
+Multiple records in LKUB01_part42.fasta, using first record
+Multiple records in AGQN01_part135.fasta, using first record
+Multiple records in LKUA01_part151.fasta, using first record
+Multiple records in AGQN01_part164.fasta, using first record
+Multiple records in AGQN01_part115.fasta, using first record
+Multiple records in AGQN01_part127.fasta, using first record
+Multiple records in AGQN01_part130.fasta, using first record
+Multiple records in AGQN01_part222.fasta, using first record
+Multiple records in LKUA01_part30.fasta, using first record
+Multiple records in MNPR01_part9.fasta, using first record
+Multiple records in pUC19_part154.fasta, using first record
+Multiple records in LKUA01_part143.fasta, using first record
+Multiple records in LKUB01_part168.fasta, using first record
+Multiple records in LKUA01_part53.fasta, using first record
+Multiple records in LKUA01_part10.fasta, using first record
+Multiple records in AGQN01_part75.fasta, using first record
+Multiple records in LKUB01_part10.fasta, using first record
+Multiple records in LKUA01_part179.fasta, using first record
+Multiple records in Influenza_A_virus_part22.fasta, using first record
+Multiple records in pUC19_part152.fasta, using first record
+Multiple records in AGQN01_part178.fasta, using first record
+Multiple records in LKUA01_part190.fasta, using first record
+Multiple records in LKUB01_part27.fasta, using first record
+Multiple records in LKUA01_part52.fasta, using first record
+Multiple records in pUC19_part115.fasta, using first record
+Multiple records in AGQN01_part199.fasta, using first record
+Multiple records in AGQN01_part107.fasta, using first record
+Multiple records in AGQN01_part93.fasta, using first record
+Multiple records in AGQN01_part49.fasta, using first record
+Multiple records in AGQN01_part14.fasta, using first record
+Multiple records in AGQN01_part67.fasta, using first record
+Multiple records in pBluescript_part6.fasta, using first record
+Multiple records in LKUA01_part290.fasta, using first record
+Multiple records in pUC19_part30.fasta, using first record
+Multiple records in AGQN01_part65.fasta, using first record
+Multiple records in LKUB01_part72.fasta, using first record
+Multiple records in AGQN01_part239.fasta, using first record
+Multiple records in LKUA01_part3.fasta, using first record
+Multiple records in AGQN01_part329.fasta, using first record
+Multiple records in LKUA01_part42.fasta, using first record
+Multiple records in LKUA01_part189.fasta, using first record
+Multiple records in MNPR01_part7.fasta, using first record
+Multiple records in AGQN01_part181.fasta, using first record
+Multiple records in AGQN01_part308.fasta, using first record
+Multiple records in LKUA01_part286.fasta, using first record
+Multiple records in LKUB01_part149.fasta, using first record
+Multiple records in LKUA01_part50.fasta, using first record
+Multiple records in AGQN01_part142.fasta, using first record
+Multiple records in LKUA01_part271.fasta, using first record
+Multiple records in pUC19_part149.fasta, using first record
+Multiple records in AGQN01_part171.fasta, using first record
+Multiple records in LKUB01_part9.fasta, using first record
+Multiple records in AGQN01_part321.fasta, using first record
+Multiple records in LKUA01_part135.fasta, using first record
+Multiple records in AGQN01_part123.fasta, using first record
+Multiple records in LKUA01_part307.fasta, using first record
+Multiple records in LKUA01_part23.fasta, using first record
+Multiple records in LKUA01_part238.fasta, using first record
+Multiple records in LKUA01_part55.fasta, using first record
+Multiple records in pUC19_part44.fasta, using first record
+Multiple records in LKUA01_part302.fasta, using first record
+Multiple records in LKUA01_part254.fasta, using first record
+Multiple records in LKUB01_part15.fasta, using first record
+Multiple records in LKUA01_part225.fasta, using first record
+Multiple records in LKUA01_part150.fasta, using first record
+Multiple records in LKUA01_part118.fasta, using first record
+Multiple records in LKUA01_part233.fasta, using first record
+Multiple records in AGQN01_part88.fasta, using first record
+Multiple records in AGQN01_part226.fasta, using first record
+Multiple records in LKUB01_part46.fasta, using first record
+Multiple records in LKUA01_part120.fasta, using first record
+Multiple records in pUC19_part155.fasta, using first record
+Multiple records in LKUB01_part84.fasta, using first record
+Multiple records in LKUA01_part176.fasta, using first record
+Multiple records in AGQN01_part214.fasta, using first record
+Multiple records in AGQN01_part41.fasta, using first record
+Multiple records in LKUB01_part166.fasta, using first record
+Multiple records in MNPR01_part5.fasta, using first record
+Multiple records in AGQN01_part289.fasta, using first record
+Multiple records in pUC19_part37.fasta, using first record
+Multiple records in LKUB01_part148.fasta, using first record
+Multiple records in LKUA01_part188.fasta, using first record
+Multiple records in AGQN01_part209.fasta, using first record
+Multiple records in LKUB01_part125.fasta, using first record
+Multiple records in LKUA01_part116.fasta, using first record
+Multiple records in LKUA01_part282.fasta, using first record
+Multiple records in pBluescript_part21.fasta, using first record
+Multiple records in AGQN01_part85.fasta, using first record
+Multiple records in AGQN01_part234.fasta, using first record
+Multiple records in LKUA01_part209.fasta, using first record
+Multiple records in LKUA01_part236.fasta, using first record
+Multiple records in pUC19_part136.fasta, using first record
+Multiple records in AGQN01_part175.fasta, using first record
+Multiple records in LKUA01_part79.fasta, using first record
+Multiple records in AGQN01_part161.fasta, using first record
+Multiple records in LKUB01_part93.fasta, using first record
+Multiple records in LKUA01_part261.fasta, using first record
+Multiple records in AGQN01_part152.fasta, using first record
+Multiple records in AGQN01_part155.fasta, using first record
+Multiple records in LKUA01_part166.fasta, using first record
+Multiple records in MNPR01_part6.fasta, using first record
+Multiple records in AGQN01_part80.fasta, using first record
+Multiple records in LKUB01_part112.fasta, using first record
+Multiple records in pUC19_part46.fasta, using first record
+Multiple records in pUC19_part82.fasta, using first record
+Multiple records in LKUA01_part95.fasta, using first record
+Multiple records in LKUA01_part173.fasta, using first record
+Multiple records in LKUA01_part247.fasta, using first record
+Multiple records in AGQN01_part277.fasta, using first record
+Multiple records in LKUA01_part310.fasta, using first record
+Multiple records in LKUA01_part59.fasta, using first record
+Multiple records in AGQN01_part297.fasta, using first record
+Multiple records in LKUA01_part300.fasta, using first record
+Multiple records in LKUA01_part141.fasta, using first record
+Multiple records in pUC19_part174.fasta, using first record
+Multiple records in LKUB01_part75.fasta, using first record
+Multiple records in AGQN01_part333.fasta, using first record
+Multiple records in pUC19_part53.fasta, using first record
+Multiple records in LKUA01_part203.fasta, using first record
+Multiple records in LKUB01_part103.fasta, using first record
+Multiple records in AGQN01_part210.fasta, using first record
+Multiple records in pUC19_part83.fasta, using first record
+Multiple records in pBluescript_part11.fasta, using first record
+Multiple records in LKUA01_part51.fasta, using first record
+Multiple records in pUC19_part33.fasta, using first record
+Multiple records in LKUA01_part115.fasta, using first record
+Multiple records in AGQN01_part19.fasta, using first record
+Multiple records in pUC19_part112.fasta, using first record
+Multiple records in AGQN01_part182.fasta, using first record
+Multiple records in LKUB01_part132.fasta, using first record
+Multiple records in AGQN01_part22.fasta, using first record
+Multiple records in pUC19_part79.fasta, using first record
+Multiple records in AGQN01_part76.fasta, using first record
+Multiple records in pBluescript_part19.fasta, using first record
+Multiple records in LKUB01_part98.fasta, using first record
+Multiple records in AGQN01_part293.fasta, using first record
+Multiple records in LKUA01_part100.fasta, using first record
+Multiple records in LKUA01_part275.fasta, using first record
+Multiple records in AGQN01_part163.fasta, using first record
+Multiple records in pUC19_part45.fasta, using first record
+Multiple records in pUC19_part42.fasta, using first record
+Multiple records in AGQN01_part34.fasta, using first record
+Multiple records in LKUA01_part89.fasta, using first record
+Multiple records in LKUB01_part111.fasta, using first record
+Multiple records in LKUB01_part54.fasta, using first record
+Multiple records in LKUA01_part281.fasta, using first record
+Multiple records in LKUB01_part104.fasta, using first record
+Multiple records in AGQN01_part230.fasta, using first record
+Multiple records in AGQN01_part39.fasta, using first record
+Multiple records in pUC19_part119.fasta, using first record
+Multiple records in LKUA01_part224.fasta, using first record
+Multiple records in LKUB01_part45.fasta, using first record
+Multiple records in AGQN01_part251.fasta, using first record
+Multiple records in LKUA01_part99.fasta, using first record
+Multiple records in AGQN01_part306.fasta, using first record
+Multiple records in LKUB01_part68.fasta, using first record
+Multiple records in AGQN01_part2.fasta, using first record
+Multiple records in AGQN01_part236.fasta, using first record
+Multiple records in pUC19_part158.fasta, using first record
+Multiple records in LKUB01_part117.fasta, using first record
+Multiple records in AGQN01_part328.fasta, using first record
+Multiple records in LKUB01_part18.fasta, using first record
+Multiple records in LKUA01_part187.fasta, using first record
+Multiple records in AGQN01_part166.fasta, using first record
+Multiple records in AGQN01_part153.fasta, using first record
+Multiple records in AGQN01_part262.fasta, using first record
+Multiple records in LKUB01_part60.fasta, using first record
+Multiple records in pBluescript_part1.fasta, using first record
+Multiple records in LKUB01_part11.fasta, using first record
+Multiple records in LKUA01_part35.fasta, using first record
+Multiple records in pUC19_part24.fasta, using first record
+Multiple records in LKUA01_part68.fasta, using first record
+Multiple records in LKUA01_part255.fasta, using first record
+Multiple records in LKUB01_part76.fasta, using first record
+Multiple records in LKUA01_part21.fasta, using first record
+Multiple records in pBluescript_part8.fasta, using first record
+Multiple records in LKUA01_part279.fasta, using first record
+Multiple records in pUC19_part124.fasta, using first record
+Multiple records in LKUA01_part243.fasta, using first record
+Multiple records in LKUA01_part65.fasta, using first record
+Multiple records in LKUB01_part114.fasta, using first record
+Multiple records in LKUA01_part301.fasta, using first record
+Multiple records in LKUA01_part69.fasta, using first record
+Multiple records in LKUB01_part61.fasta, using first record
+Multiple records in AGQN01_part271.fasta, using first record
+Multiple records in LKUA01_part308.fasta, using first record
+Multiple records in pUC19_part144.fasta, using first record
+Multiple records in LKUA01_part98.fasta, using first record
+Multiple records in AGQN01_part299.fasta, using first record
+Multiple records in pUC19_part139.fasta, using first record
+Multiple records in AGQN01_part103.fasta, using first record
+Multiple records in AGQN01_part270.fasta, using first record
+Multiple records in LKUA01_part312.fasta, using first record
+Multiple records in LKUB01_part99.fasta, using first record
+Multiple records in AGQN01_part281.fasta, using first record
+Multiple records in LKUA01_part204.fasta, using first record
+Multiple records in LKUA01_part216.fasta, using first record
+Multiple records in LKUB01_part25.fasta, using first record
+Multiple records in AGQN01_part33.fasta, using first record
+Multiple records in LKUA01_part267.fasta, using first record
+Multiple records in LKUB01_part141.fasta, using first record
+Multiple records in LKUA01_part237.fasta, using first record
+Multiple records in AGQN01_part120.fasta, using first record
+Multiple records in pUC19_part68.fasta, using first record
+Multiple records in MNPR01_part3.fasta, using first record
+Multiple records in AGQN01_part177.fasta, using first record
+Multiple records in Influenza_A_virus_part1.fasta, using first record
+Multiple records in LKUB01_part79.fasta, using first record
+Multiple records in AGQN01_part285.fasta, using first record
+Multiple records in LKUB01_part135.fasta, using first record
+Multiple records in AGQN01_part305.fasta, using first record
+Multiple records in LKUA01_part262.fasta, using first record
+Multiple records in AGQN01_part202.fasta, using first record
+Multiple records in AGQN01_part62.fasta, using first record
+Multiple records in pBluescript_part2.fasta, using first record
+Multiple records in AGQN01_part44.fasta, using first record
+Multiple records in LKUA01_part66.fasta, using first record
+Multiple records in LKUB01_part124.fasta, using first record
+Multiple records in AGQN01_part108.fasta, using first record
+Multiple records in LKUA01_part18.fasta, using first record
+Multiple records in LKUA01_part198.fasta, using first record
+Multiple records in AGQN01_part332.fasta, using first record
+Multiple records in pUC19_part161.fasta, using first record
+Multiple records in LKUA01_part36.fasta, using first record
+Multiple records in LKUA01_part28.fasta, using first record
+Multiple records in MNPR01_part8.fasta, using first record
+Multiple records in AGQN01_part257.fasta, using first record
+Multiple records in LKUB01_part5.fasta, using first record
+Multiple records in LKUA01_part32.fasta, using first record
+Multiple records in LKUA01_part277.fasta, using first record
+Multiple records in LKUB01_part50.fasta, using first record
+Multiple records in AGQN01_part70.fasta, using first record
+Multiple records in LKUB01_part23.fasta, using first record
+Multiple records in LKUA01_part103.fasta, using first record
+Multiple records in pUC19_part165.fasta, using first record
+Multiple records in LKUB01_part83.fasta, using first record
+Multiple records in pUC19_part78.fasta, using first record
+Multiple records in LKUB01_part129.fasta, using first record
+Multiple records in LKUA01_part265.fasta, using first record
+Multiple records in LKUA01_part259.fasta, using first record
+Multiple records in LKUB01_part49.fasta, using first record
+Multiple records in LKUA01_part128.fasta, using first record
+Multiple records in AGQN01_part54.fasta, using first record
+Multiple records in pBluescript_part22.fasta, using first record
+Multiple records in LKUA01_part9.fasta, using first record
+Multiple records in pUC19_part127.fasta, using first record
+Multiple records in AGQN01_part91.fasta, using first record
+Multiple records in LKUB01_part71.fasta, using first record
+Multiple records in AGQN01_part73.fasta, using first record
+Multiple records in LKUB01_part37.fasta, using first record
+Multiple records in LKUB01_part17.fasta, using first record
+Multiple records in pUC19_part143.fasta, using first record
+Multiple records in AGQN01_part143.fasta, using first record
+Multiple records in AGQN01_part269.fasta, using first record
+Multiple records in LKUA01_part119.fasta, using first record
+Multiple records in LKUB01_part13.fasta, using first record
+Multiple records in LKUA01_part12.fasta, using first record
+Multiple records in LKUA01_part121.fasta, using first record
+Multiple records in AGQN01_part283.fasta, using first record
+Multiple records in pUC19_part9.fasta, using first record
+Multiple records in LKUA01_part74.fasta, using first record
+Multiple records in pUC19_part108.fasta, using first record
+Multiple records in AGQN01_part173.fasta, using first record
+Multiple records in LKUA01_part257.fasta, using first record
+Multiple records in AGQN01_part7.fasta, using first record
+Multiple records in LKUA01_part208.fasta, using first record
+Multiple records in AGQN01_part259.fasta, using first record
+Multiple records in LKUA01_part241.fasta, using first record
+Multiple records in AGQN01_part27.fasta, using first record
+Multiple records in LKUA01_part85.fasta, using first record
+Multiple records in pBluescript_part9.fasta, using first record
+Multiple records in LKUB01_part134.fasta, using first record
+Multiple records in LKUA01_part148.fasta, using first record
+Multiple records in LKUB01_part105.fasta, using first record
+Multiple records in Influenza_A_virus_part2.fasta, using first record
+Multiple records in AGQN01_part56.fasta, using first record
+Multiple records in LKUA01_part219.fasta, using first record
+Multiple records in AGQN01_part32.fasta, using first record
+Multiple records in LKUA01_part154.fasta, using first record
+Multiple records in AGQN01_part126.fasta, using first record
+Multiple records in pUC19_part103.fasta, using first record
+Multiple records in AGQN01_part247.fasta, using first record
+Multiple records in LKUA01_part132.fasta, using first record
+Multiple records in pBluescript_part15.fasta, using first record
+Multiple records in LKUA01_part299.fasta, using first record
+Multiple records in AGQN01_part192.fasta, using first record
+Multiple records in LKUB01_part87.fasta, using first record
+Multiple records in LKUA01_part56.fasta, using first record
+Multiple records in AGQN01_part253.fasta, using first record
+Multiple records in AGQN01_part302.fasta, using first record
+Multiple records in LKUB01_part174.fasta, using first record
+Multiple records in LKUB01_part2.fasta, using first record
+Multiple records in pUC19_part122.fasta, using first record
+Multiple records in LKUB01_part39.fasta, using first record
+Multiple records in AGQN01_part94.fasta, using first record
+Multiple records in AGQN01_part213.fasta, using first record
+Multiple records in LKUA01_part161.fasta, using first record
+Multiple records in LKUB01_part116.fasta, using first record
+Multiple records in LKUA01_part113.fasta, using first record
+Multiple records in AGQN01_part224.fasta, using first record
+Multiple records in pUC19_part61.fasta, using first record
+Multiple records in LKUA01_part102.fasta, using first record
+Multiple records in LKUA01_part8.fasta, using first record
+Multiple records in AGQN01_part235.fasta, using first record
+Multiple records in pUC19_part7.fasta, using first record
+Multiple records in LKUA01_part235.fasta, using first record
+Multiple records in Influenza_A_virus_part8.fasta, using first record
+Multiple records in AGQN01_part42.fasta, using first record
+Multiple records in AGQN01_part97.fasta, using first record
+Multiple records in LKUB01_part32.fasta, using first record
+Multiple records in AGQN01_part87.fasta, using first record
+Multiple records in LKUA01_part7.fasta, using first record
+Multiple records in AGQN01_part300.fasta, using first record
+Multiple records in LKUB01_part113.fasta, using first record
+Multiple records in AGQN01_part59.fasta, using first record
+Multiple records in AGQN01_part169.fasta, using first record
+Multiple records in pUC19_part59.fasta, using first record
+Multiple records in pUC19_part40.fasta, using first record
+Multiple records in Influenza_A_virus_part3.fasta, using first record
+Multiple records in LKUA01_part112.fasta, using first record
+Multiple records in pUC19_part3.fasta, using first record
+Multiple records in AGQN01_part84.fasta, using first record
+Multiple records in AGQN01_part125.fasta, using first record
+Multiple records in pUC19_part89.fasta, using first record
+Multiple records in AGQN01_part218.fasta, using first record
+Multiple records in pUC19_part70.fasta, using first record
+Multiple records in LKUA01_part240.fasta, using first record
+Multiple records in LKUB01_part108.fasta, using first record
+Multiple records in LKUA01_part211.fasta, using first record
+Multiple records in AGQN01_part183.fasta, using first record
+Multiple records in LKUA01_part273.fasta, using first record
+Multiple records in AGQN01_part28.fasta, using first record
+Multiple records in LKUB01_part96.fasta, using first record
+Multiple records in pBluescript_part18.fasta, using first record
+Multiple records in LKUA01_part2.fasta, using first record
+Multiple records in LKUA01_part213.fasta, using first record
+Multiple records in LKUA01_part155.fasta, using first record
+Multiple records in LKUA01_part223.fasta, using first record
+Multiple records in LKUB01_part35.fasta, using first record
+Multiple records in LKUB01_part34.fasta, using first record
+Multiple records in MNPR01_part1.fasta, using first record
+Multiple records in Influenza_A_virus_part20.fasta, using first record
+Multiple records in AGQN01_part223.fasta, using first record
+Multiple records in Influenza_A_virus_part14.fasta, using first record
+Multiple records in pUC19_part65.fasta, using first record
+Multiple records in LKUB01_part77.fasta, using first record
+Multiple records in AGQN01_part74.fasta, using first record
+Multiple records in AGQN01_part124.fasta, using first record
+Multiple records in LKUB01_part16.fasta, using first record
+Multiple records in AGQN01_part241.fasta, using first record
+Multiple records in AGQN01_part3.fasta, using first record
+Multiple records in LKUB01_part163.fasta, using first record
+Multiple records in LKUB01_part161.fasta, using first record
+Multiple records in AGQN01_part100.fasta, using first record
+Multiple records in pUC19_part81.fasta, using first record
+Multiple records in pUC19_part28.fasta, using first record
+Multiple records in pUC19_part104.fasta, using first record
+Multiple records in pUC19_part157.fasta, using first record
+Multiple records in AGQN01_part23.fasta, using first record
+Multiple records in AGQN01_part167.fasta, using first record
+Multiple records in AGQN01_part274.fasta, using first record
+Multiple records in AGQN01_part102.fasta, using first record
+Multiple records in AGQN01_part133.fasta, using first record
+Multiple records in LKUA01_part48.fasta, using first record
+Multiple records in LKUB01_part66.fasta, using first record
+Multiple records in pUC19_part86.fasta, using first record
+Multiple records in LKUA01_part101.fasta, using first record
+Multiple records in pUC19_part116.fasta, using first record
+Multiple records in LKUB01_part102.fasta, using first record
+Multiple records in pUC19_part10.fasta, using first record
+Multiple records in AGQN01_part317.fasta, using first record
+Multiple records in LKUA01_part311.fasta, using first record
+Multiple records in AGQN01_part145.fasta, using first record
+Multiple records in pUC19_part12.fasta, using first record
+Multiple records in LKUA01_part158.fasta, using first record
+Multiple records in LKUA01_part25.fasta, using first record
+Multiple records in LKUB01_part24.fasta, using first record
+Multiple records in LKUB01_part95.fasta, using first record
+Multiple records in pUC19_part117.fasta, using first record
+Multiple records in AGQN01_part78.fasta, using first record
+Multiple records in pUC19_part153.fasta, using first record
+Multiple records in AGQN01_part335.fasta, using first record
+Multiple records in AGQN01_part149.fasta, using first record
+Multiple records in LKUB01_part171.fasta, using first record
+Multiple records in AGQN01_part51.fasta, using first record
+Multiple records in pUC19_part57.fasta, using first record
+Multiple records in LKUB01_part156.fasta, using first record
+Multiple records in pUC19_part11.fasta, using first record
+Multiple records in pUC19_part16.fasta, using first record
+Multiple records in pUC19_part91.fasta, using first record
+Multiple records in pUC19_part34.fasta, using first record
+Multiple records in pUC19_part172.fasta, using first record
+Multiple records in LKUB01_part22.fasta, using first record
+Multiple records in AGQN01_part117.fasta, using first record
+Multiple records in LKUA01_part220.fasta, using first record
+Multiple records in AGQN01_part82.fasta, using first record
+Multiple records in LKUA01_part88.fasta, using first record
+Multiple records in LKUA01_part185.fasta, using first record
+Multiple records in LKUB01_part165.fasta, using first record
+Multiple records in AGQN01_part113.fasta, using first record
+Multiple records in AGQN01_part231.fasta, using first record
+Multiple records in AGQN01_part79.fasta, using first record
+Multiple records in AGQN01_part98.fasta, using first record
+Multiple records in LKUB01_part176.fasta, using first record
+Multiple records in pUC19_part8.fasta, using first record
+Multiple records in LKUA01_part133.fasta, using first record
+Multiple records in LKUA01_part244.fasta, using first record
+Multiple records in AGQN01_part200.fasta, using first record
+Multiple records in AGQN01_part187.fasta, using first record
+Multiple records in AGQN01_part71.fasta, using first record
+Multiple records in Influenza_A_virus_part9.fasta, using first record
+Multiple records in LKUA01_part33.fasta, using first record
+Multiple records in AGQN01_part204.fasta, using first record
+Multiple records in LKUA01_part46.fasta, using first record
+Multiple records in LKUA01_part199.fasta, using first record
+Multiple records in LKUA01_part242.fasta, using first record
+Multiple records in LKUB01_part57.fasta, using first record
+Multiple records in LKUA01_part276.fasta, using first record
+Multiple records in LKUA01_part264.fasta, using first record
+Multiple records in LKUB01_part33.fasta, using first record
+Multiple records in pUC19_part58.fasta, using first record
+Multiple records in pUC19_part66.fasta, using first record
+Multiple records in Influenza_A_virus_part19.fasta, using first record
+Multiple records in pBluescript_part4.fasta, using first record
+Multiple records in LKUA01_part284.fasta, using first record
+Multiple records in AGQN01_part338.fasta, using first record
+Multiple records in AGQN01_part121.fasta, using first record
+Multiple records in LKUA01_part278.fasta, using first record
+Multiple records in AGQN01_part206.fasta, using first record
+Multiple records in LKUB01_part120.fasta, using first record
+Multiple records in pUC19_part164.fasta, using first record
+Multiple records in pUC19_part88.fasta, using first record
+Multiple records in LKUB01_part143.fasta, using first record
+Multiple records in AGQN01_part128.fasta, using first record
+Multiple records in AGQN01_part57.fasta, using first record
+Multiple records in LKUB01_part88.fasta, using first record
+Multiple records in AGQN01_part314.fasta, using first record
+Multiple records in pUC19_part98.fasta, using first record
+Multiple records in LKUB01_part160.fasta, using first record
+Multiple records in AGQN01_part60.fasta, using first record
+Multiple records in pUC19_part69.fasta, using first record
+Multiple records in AGQN01_part4.fasta, using first record
+Multiple records in AGQN01_part106.fasta, using first record
+Multiple records in AGQN01_part211.fasta, using first record
+Multiple records in LKUA01_part297.fasta, using first record
+Multiple records in pUC19_part27.fasta, using first record
+Multiple records in pUC19_part129.fasta, using first record
+Multiple records in LKUA01_part296.fasta, using first record
+Multiple records in AGQN01_part83.fasta, using first record
+Multiple records in LKUA01_part207.fasta, using first record
+Multiple records in AGQN01_part122.fasta, using first record
+Multiple records in pBluescript_part3.fasta, using first record
+Multiple records in LKUB01_part43.fasta, using first record
+Multiple records in LKUA01_part123.fasta, using first record
+Multiple records in LKUB01_part56.fasta, using first record
+Multiple records in MNPR01_part11.fasta, using first record
+Multiple records in LKUA01_part27.fasta, using first record
+Multiple records in LKUA01_part78.fasta, using first record
+Multiple records in AGQN01_part201.fasta, using first record
+Multiple records in LKUA01_part84.fasta, using first record
+Multiple records in AGQN01_part157.fasta, using first record
+Multiple records in LKUA01_part75.fasta, using first record
+Multiple records in LKUA01_part90.fasta, using first record
+Multiple records in LKUA01_part82.fasta, using first record
+Multiple records in AGQN01_part179.fasta, using first record
+Multiple records in LKUA01_part136.fasta, using first record
+Multiple records in Influenza_A_virus_part16.fasta, using first record
+Multiple records in LKUB01_part4.fasta, using first record
+Multiple records in pBluescript_part17.fasta, using first record
+Multiple records in AGQN01_part9.fasta, using first record
+Multiple records in LKUB01_part30.fasta, using first record
+Multiple records in AGQN01_part64.fasta, using first record
+Multiple records in AGQN01_part48.fasta, using first record
+Multiple records in AGQN01_part140.fasta, using first record
+Multiple records in LKUA01_part256.fasta, using first record
+Multiple records in AGQN01_part26.fasta, using first record
+Multiple records in AGQN01_part250.fasta, using first record
+Multiple records in LKUB01_part86.fasta, using first record
+Multiple records in AGQN01_part217.fasta, using first record
+Multiple records in LKUA01_part263.fasta, using first record
+Multiple records in LKUA01_part62.fasta, using first record
+Multiple records in LKUB01_part65.fasta, using first record
+Multiple records in pUC19_part54.fasta, using first record
+Multiple records in AGQN01_part92.fasta, using first record
+Multiple records in AGQN01_part186.fasta, using first record
+Multiple records in AGQN01_part118.fasta, using first record
+Multiple records in LKUA01_part39.fasta, using first record
+Multiple records in AGQN01_part61.fasta, using first record
+Multiple records in LKUA01_part305.fasta, using first record
+Multiple records in AGQN01_part313.fasta, using first record
+Multiple records in pUC19_part47.fasta, using first record
+Multiple records in LKUB01_part137.fasta, using first record
+Multiple records in AGQN01_part196.fasta, using first record
+Multiple records in LKUB01_part91.fasta, using first record
+Multiple records in AGQN01_part260.fasta, using first record
+Multiple records in pUC19_part74.fasta, using first record
+Multiple records in AGQN01_part248.fasta, using first record
+Multiple records in pUC19_part142.fasta, using first record
+Multiple records in pBluescript_part10.fasta, using first record
+Multiple records in LKUA01_part194.fasta, using first record
+Multiple records in LKUA01_part191.fasta, using first record
+Multiple records in pUC19_part138.fasta, using first record
+Multiple records in pUC19_part2.fasta, using first record
+Multiple records in AGQN01_part134.fasta, using first record
+Multiple records in pUC19_part35.fasta, using first record
+Multiple records in LKUA01_part226.fasta, using first record
+Multiple records in LKUA01_part11.fasta, using first record
+Multiple records in LKUA01_part129.fasta, using first record
+Multiple records in LKUA01_part193.fasta, using first record
+Multiple records in AGQN01_part38.fasta, using first record
+Multiple records in LKUA01_part34.fasta, using first record
+Multiple records in LKUB01_part21.fasta, using first record
+Multiple records in LKUB01_part81.fasta, using first record
+Multiple records in AGQN01_part252.fasta, using first record
+Multiple records in AGQN01_part266.fasta, using first record
+Multiple records in pUC19_part84.fasta, using first record
+Multiple records in LKUA01_part212.fasta, using first record
+Multiple records in LKUB01_part1.fasta, using first record
+Multiple records in LKUA01_part94.fasta, using first record
+Multiple records in LKUB01_part26.fasta, using first record
+Multiple records in LKUB01_part136.fasta, using first record
+Multiple records in AGQN01_part288.fasta, using first record
+Multiple records in LKUA01_part29.fasta, using first record
+Multiple records in pBluescript_part13.fasta, using first record
+Multiple records in LKUA01_part163.fasta, using first record
+Multiple records in AGQN01_part310.fasta, using first record
+Multiple records in pUC19_part160.fasta, using first record
+Multiple records in LKUB01_part28.fasta, using first record
+Multiple records in LKUA01_part266.fasta, using first record
+Multiple records in pUC19_part135.fasta, using first record
+Multiple records in LKUA01_part24.fasta, using first record
+Multiple records in LKUA01_part239.fasta, using first record
+Multiple records in pUC19_part13.fasta, using first record
+Multiple records in pBluescript_part16.fasta, using first record
+Multiple records in AGQN01_part219.fasta, using first record
+Multiple records in LKUA01_part93.fasta, using first record
+Multiple records in LKUA01_part171.fasta, using first record
+Multiple records in AGQN01_part15.fasta, using first record
+Multiple records in pUC19_part63.fasta, using first record
+Multiple records in pUC19_part31.fasta, using first record
+Multiple records in AGQN01_part105.fasta, using first record
+Multiple records in LKUA01_part285.fasta, using first record
+Multiple records in pUC19_part167.fasta, using first record
+Multiple records in LKUA01_part162.fasta, using first record
+Multiple records in LKUB01_part3.fasta, using first record
+Multiple records in LKUA01_part178.fasta, using first record
+Multiple records in LKUB01_part107.fasta, using first record
+Multiple records in AGQN01_part282.fasta, using first record
+Multiple records in pUC19_part43.fasta, using first record
+Multiple records in LKUB01_part100.fasta, using first record
+Multiple records in pUC19_part101.fasta, using first record
+Multiple records in AGQN01_part325.fasta, using first record
+Multiple records in LKUA01_part104.fasta, using first record
+Multiple records in LKUA01_part138.fasta, using first record
+Multiple records in AGQN01_part220.fasta, using first record
+Multiple records in LKUB01_part14.fasta, using first record
+Multiple records in AGQN01_part1.fasta, using first record
+Multiple records in AGQN01_part188.fasta, using first record
+Multiple records in LKUA01_part306.fasta, using first record
+Multiple records in LKUA01_part146.fasta, using first record
+Multiple records in pUC19_part146.fasta, using first record
+Multiple records in AGQN01_part138.fasta, using first record
+Multiple records in pUC19_part32.fasta, using first record
+Multiple records in LKUB01_part78.fasta, using first record
+Multiple records in LKUA01_part44.fasta, using first record
+Multiple records in pUC19_part137.fasta, using first record
+Multiple records in LKUB01_part31.fasta, using first record
+Multiple records in LKUA01_part214.fasta, using first record
+Multiple records in AGQN01_part194.fasta, using first record
+Multiple records in pUC19_part106.fasta, using first record
+Multiple records in LKUA01_part298.fasta, using first record
+Multiple records in LKUA01_part217.fasta, using first record
+Multiple records in AGQN01_part276.fasta, using first record
+Multiple records in pUC19_part140.fasta, using first record
+Multiple records in LKUA01_part49.fasta, using first record
+Multiple records in LKUB01_part138.fasta, using first record
+Multiple records in pUC19_part121.fasta, using first record
+Multiple records in LKUA01_part269.fasta, using first record
+Multiple records in LKUA01_part40.fasta, using first record
+Multiple records in AGQN01_part168.fasta, using first record
+Multiple records in pUC19_part113.fasta, using first record
+Multiple records in AGQN01_part287.fasta, using first record
+Multiple records in AGQN01_part316.fasta, using first record
+Multiple records in LKUA01_part253.fasta, using first record
+Multiple records in pUC19_part114.fasta, using first record
+Multiple records in pUC19_part120.fasta, using first record
+Multiple records in LKUA01_part170.fasta, using first record
+Multiple records in pUC19_part73.fasta, using first record
+Multiple records in Influenza_A_virus_part21.fasta, using first record
+Multiple records in pUC19_part133.fasta, using first record
+Multiple records in AGQN01_part268.fasta, using first record
+Multiple records in LKUB01_part175.fasta, using first record
+Multiple records in pUC19_part26.fasta, using first record
+Multiple records in LKUB01_part142.fasta, using first record
+Multiple records in LKUA01_part165.fasta, using first record
+Multiple records in LKUB01_part154.fasta, using first record
+Multiple records in LKUA01_part145.fasta, using first record
+Multiple records in pUC19_part168.fasta, using first record
+Multiple records in LKUA01_part152.fasta, using first record
+Multiple records in LKUA01_part287.fasta, using first record
+Multiple records in AGQN01_part331.fasta, using first record
+Multiple records in LKUA01_part134.fasta, using first record
+Multiple records in LKUA01_part149.fasta, using first record
+Multiple records in LKUB01_part122.fasta, using first record
+Multiple records in AGQN01_part275.fasta, using first record
+Multiple records in LKUA01_part147.fasta, using first record
+Multiple records in Influenza_A_virus_part6.fasta, using first record
+Multiple records in AGQN01_part303.fasta, using first record
+Multiple records in pUC19_part18.fasta, using first record
+Multiple records in AGQN01_part185.fasta, using first record
+Multiple records in AGQN01_part244.fasta, using first record
+Multiple records in pUC19_part62.fasta, using first record
+Multiple records in LKUA01_part234.fasta, using first record
+Multiple records in LKUA01_part153.fasta, using first record
+Multiple records in AGQN01_part238.fasta, using first record
+Multiple records in LKUB01_part140.fasta, using first record
+Multiple records in LKUA01_part177.fasta, using first record
+Multiple records in AGQN01_part309.fasta, using first record
+Multiple records in LKUA01_part260.fasta, using first record
+Multiple records in LKUA01_part26.fasta, using first record
+Multiple records in LKUA01_part248.fasta, using first record
+Multiple records in AGQN01_part312.fasta, using first record
+Multiple records in AGQN01_part323.fasta, using first record
+Multiple records in pUC19_part151.fasta, using first record
+Multiple records in LKUB01_part162.fasta, using first record
+Multiple records in pUC19_part130.fasta, using first record
+Multiple records in LKUA01_part186.fasta, using first record
+Multiple records in LKUB01_part173.fasta, using first record
+Multiple records in AGQN01_part245.fasta, using first record
+Multiple records in LKUA01_part76.fasta, using first record
+Multiple records in AGQN01_part156.fasta, using first record
+Multiple records in LKUB01_part82.fasta, using first record
+Multiple records in AGQN01_part36.fasta, using first record
+Multiple records in Influenza_A_virus_part17.fasta, using first record
+Multiple records in pUC19_part6.fasta, using first record
+Multiple records in AGQN01_part154.fasta, using first record
+Multiple records in LKUA01_part140.fasta, using first record
+Multiple records in LKUB01_part144.fasta, using first record
+Multiple records in LKUA01_part258.fasta, using first record
+Multiple records in LKUB01_part70.fasta, using first record
+Multiple records in LKUA01_part288.fasta, using first record
+Multiple records in LKUA01_part183.fasta, using first record
+Multiple records in Influenza_A_virus_part5.fasta, using first record
+Multiple records in LKUA01_part47.fasta, using first record
+Multiple records in pUC19_part87.fasta, using first record
+Multiple records in AGQN01_part20.fasta, using first record
+Multiple records in LKUA01_part280.fasta, using first record
+Multiple records in AGQN01_part46.fasta, using first record
+Multiple records in LKUA01_part109.fasta, using first record
+Multiple records in LKUA01_part22.fasta, using first record
+Multiple records in LKUB01_part44.fasta, using first record
+Multiple records in AGQN01_part69.fasta, using first record
+Multiple records in pUC19_part72.fasta, using first record
+Multiple records in pUC19_part147.fasta, using first record
+Multiple records in LKUB01_part164.fasta, using first record
+Multiple records in LKUB01_part133.fasta, using first record
+Multiple records in LKUA01_part86.fasta, using first record
+Multiple records in pBluescript_part20.fasta, using first record
+Multiple records in pUC19_part75.fasta, using first record
+Multiple records in AGQN01_part280.fasta, using first record
+Multiple records in pUC19_part92.fasta, using first record
+Multiple records in pUC19_part159.fasta, using first record
+Multiple records in Influenza_A_virus_part7.fasta, using first record
+Multiple records in AGQN01_part267.fasta, using first record
+Multiple records in pUC19_part118.fasta, using first record
+Multiple records in AGQN01_part174.fasta, using first record
+Multiple records in LKUA01_part192.fasta, using first record
+Multiple records in LKUA01_part127.fasta, using first record
+Multiple records in pUC19_part97.fasta, using first record
+Multiple records in LKUA01_part303.fasta, using first record
+Multiple records in LKUB01_part29.fasta, using first record
+Multiple records in pUC19_part21.fasta, using first record
+Multiple records in LKUA01_part164.fasta, using first record
+Multiple records in pUC19_part56.fasta, using first record
+Multiple records in AGQN01_part243.fasta, using first record
+Multiple records in LKUA01_part91.fasta, using first record
+Multiple records in LKUB01_part97.fasta, using first record
+Multiple records in LKUA01_part96.fasta, using first record
+Multiple records in LKUA01_part245.fasta, using first record
+Multiple records in LKUA01_part283.fasta, using first record
+Multiple records in AGQN01_part315.fasta, using first record
+Multiple records in AGQN01_part225.fasta, using first record
+Multiple records in AGQN01_part114.fasta, using first record
+Multiple records in AGQN01_part136.fasta, using first record
+Multiple records in pUC19_part22.fasta, using first record
+Multiple records in AGQN01_part99.fasta, using first record
+Multiple records in AGQN01_part254.fasta, using first record
+Multiple records in pUC19_part145.fasta, using first record
+Multiple records in pUC19_part90.fasta, using first record
+Multiple records in pUC19_part132.fasta, using first record
+Multiple records in AGQN01_part256.fasta, using first record
+Multiple records in LKUA01_part246.fasta, using first record
+Multiple records in AGQN01_part81.fasta, using first record
+Multiple records in pUC19_part15.fasta, using first record
+Multiple records in AGQN01_part298.fasta, using first record
+Multiple records in AGQN01_part95.fasta, using first record
+Multiple records in AGQN01_part193.fasta, using first record
+Multiple records in pUC19_part50.fasta, using first record
+Multiple records in AGQN01_part180.fasta, using first record
+Multiple records in AGQN01_part13.fasta, using first record
+Multiple records in AGQN01_part198.fasta, using first record
+Multiple records in AGQN01_part205.fasta, using first record
+Multiple records in LKUA01_part228.fasta, using first record
+Multiple records in LKUA01_part97.fasta, using first record
+Multiple records in LKUB01_part110.fasta, using first record
+Multiple records in AGQN01_part207.fasta, using first record
+Multiple records in LKUB01_part126.fasta, using first record
+Multiple records in sv40_validation_temp.fasta, using first record
+Multiple records in sv40_contigs.fasta, using first record
+Multiple records in SARS-CoV-2.fasta, using first record
+Multiple records in Influenza_A_virus.fasta, using first record
+Multiple records in Staphylococcus.fasta, using first record
+Multiple records in public_validation_combined.fasta, using first record
+Multiple records in nm_2026_all.fasta, using first record
+Multiple records in nm_2026.fasta, using first record
+Multiple records in nm_2026_all_260.fasta, using first record
+Multiple records in dnaA.fasta, using first record
+Multiple records in testdb.fasta, using first record
+Multiple records in B_anthracis_contigs.fasta, using first record
+Multiple records in D_pseudoobscura_contigs.fasta, using first record
+Multiple records in testdb.fasta, using first record
+Multiple records in dnaA.fasta, using first record
+Multiple records in testdb.fasta, using first record
+Multiple records in B_anthracis_contigs.fasta, using first record
+Multiple records in D_pseudoobscura_contigs.fasta, using first record
+╔════════════════════════════════════════════════════════════════════╗
+║          🔬 FURIN CLEAVAGE SITE (FCS) DETECTOR                  ║
+╚════════════════════════════════════════════════════════════════════╝
+
+✅ Found 1751 sequences
+
+🔬 FCS/PRRA DETECTION: 1751 sequences
+======================================================================
+📈 [1/1751] POSITIVE_CONTROL_2P_Stabilized_Spike.fasta
+📈 [11/1751] Omicron_BA2_Spike.fasta
+📈 [21/1751] OR134577_1.fasta
+📈 [31/1751] PZ212782.1_recent.fasta
+📈 [41/1751] PZ212773.1_recent.fasta
+📈 [51/1751] NC_045512.2_Wuhan.fasta
+📈 [61/1751] Clostridium_perfringens_13.fasta
+📈 [71/1751] Saccharomyces_cerevisiae.fasta
+📈 [81/1751] BRCA1.fasta
+📈 [91/1751] KRAS.fasta
+📈 [101/1751] Influenza_B_virus_part4.fasta
+📈 [111/1751] Influenza_B_virus_part47.fasta
+📈 [121/1751] Influenza_B_virus_part49.fasta
+📈 [131/1751] Influenza_B_virus_part6.fasta
+📈 [141/1751] Influenza_B_virus_part90.fasta
+📈 [151/1751] Influenza_B_virus_part59.fasta
+📈 [161/1751] Influenza_B_virus_part85.fasta
+📈 [171/1751] Influenza_B_virus_part119.fasta
+📈 [181/1751] Influenza_B_virus_part82.fasta
+📈 [191/1751] Influenza_B_virus_part26.fasta
+📈 [201/1751] Influenza_B_virus_part109.fasta
+📈 [211/1751] Influenza_B_virus_part48.fasta
+📈 [221/1751] Influenza_B_virus_part42.fasta
+📈 [231/1751] 2P_Vaccine.fasta
+📈 [241/1751] AGQN01_part12.fasta
+📈 [251/1751] LKUA01_part57.fasta
+📈 [261/1751] AGQN01_part273.fasta
+📈 [271/1751] AGQN01_part290.fasta
+📈 [281/1751] AGQN01_part190.fasta
+📈 [291/1751] LKUB01_part12.fasta
+📈 [301/1751] LKUA01_part215.fasta
+📈 [311/1751] AGQN01_part195.fasta
+📈 [321/1751] AGQN01_part197.fasta
+📈 [331/1751] AGQN01_part272.fasta
+📈 [341/1751] AGQN01_part326.fasta
+📈 [351/1751] LKUA01_part159.fasta
+📈 [361/1751] Influenza_A_virus_part18.fasta
+📈 [371/1751] AGQN01_part295.fasta
+📈 [381/1751] AGQN01_part294.fasta
+📈 [391/1751] LKUA01_part117.fasta
+📈 [401/1751] pUC19_part39.fasta
+📈 [411/1751] AGQN01_part104.fasta
+📈 [421/1751] LKUA01_part87.fasta
+📈 [431/1751] AGQN01_part242.fasta
+📈 [441/1751] pBluescript_part5.fasta
+📈 [451/1751] AGQN01_part77.fasta
+📈 [461/1751] LKUA01_part6.fasta
+📈 [471/1751] pUC19_part109.fasta
+📈 [481/1751] AGQN01_part278.fasta
+📈 [491/1751] LKUA01_part60.fasta
+📈 [501/1751] pUC19_part173.fasta
+📈 [511/1751] pUC19_part77.fasta
+📈 [521/1751] LKUB01_part106.fasta
+📈 [531/1751] LKUB01_part80.fasta
+📈 [541/1751] pUC19_part52.fasta
+📈 [551/1751] AGQN01_part203.fasta
+📈 [561/1751] LKUB01_part48.fasta
+📈 [571/1751] LKUB01_part119.fasta
+📈 [581/1751] LKUA01_part110.fasta
+📈 [591/1751] AGQN01_part135.fasta
+📈 [601/1751] LKUA01_part143.fasta
+📈 [611/1751] LKUA01_part190.fasta
+📈 [621/1751] pBluescript_part6.fasta
+📈 [631/1751] MNPR01_part7.fasta
+📈 [641/1751] LKUB01_part9.fasta
+📈 [651/1751] LKUA01_part254.fasta
+📈 [661/1751] pUC19_part155.fasta
+📈 [671/1751] LKUA01_part188.fasta
+📈 [681/1751] pUC19_part136.fasta
+📈 [691/1751] AGQN01_part80.fasta
+📈 [701/1751] AGQN01_part297.fasta
+📈 [711/1751] pUC19_part83.fasta
+📈 [721/1751] pUC19_part79.fasta
+📈 [731/1751] AGQN01_part34.fasta
+📈 [741/1751] LKUB01_part45.fasta
+📈 [751/1751] LKUB01_part18.fasta
+📈 [761/1751] LKUA01_part68.fasta
+📈 [771/1751] LKUA01_part301.fasta
+📈 [781/1751] AGQN01_part270.fasta
+📈 [791/1751] LKUA01_part237.fasta
+📈 [801/1751] LKUA01_part262.fasta
+📈 [811/1751] AGQN01_part332.fasta
+📈 [821/1751] AGQN01_part70.fasta
+📈 [831/1751] LKUA01_part128.fasta
+📈 [841/1751] pUC19_part143.fasta
+📈 [851/1751] pUC19_part108.fasta
+📈 [861/1751] LKUB01_part134.fasta
+📈 [871/1751] AGQN01_part247.fasta
+📈 [881/1751] LKUB01_part2.fasta
+📈 [891/1751] LKUA01_part102.fasta
+📈 [901/1751] LKUA01_part7.fasta
+📈 [911/1751] AGQN01_part84.fasta
+📈 [921/1751] AGQN01_part28.fasta
+📈 [931/1751] Influenza_A_virus_part20.fasta
+📈 [941/1751] LKUB01_part163.fasta
+📈 [951/1751] AGQN01_part102.fasta
+📈 [961/1751] LKUA01_part311.fasta
+📈 [971/1751] AGQN01_part335.fasta
+📈 [981/1751] pUC19_part172.fasta
+📈 [991/1751] AGQN01_part79.fasta
+📈 [1001/1751] LKUA01_part33.fasta
+📈 [1011/1751] pUC19_part66.fasta
+📈 [1021/1751] pUC19_part88.fasta
+📈 [1031/1751] AGQN01_part4.fasta
+📈 [1041/1751] pBluescript_part3.fasta
+📈 [1051/1751] LKUA01_part75.fasta
+📈 [1061/1751] AGQN01_part64.fasta
+📈 [1071/1751] LKUB01_part65.fasta
+📈 [1081/1751] LKUB01_part137.fasta
+📈 [1091/1751] pUC19_part138.fasta
+📈 [1101/1751] LKUB01_part21.fasta
+📈 [1111/1751] AGQN01_part288.fasta
+📈 [1121/1751] LKUA01_part239.fasta
+📈 [1131/1751] LKUA01_part285.fasta
+📈 [1141/1751] AGQN01_part325.fasta
+📈 [1151/1751] AGQN01_part138.fasta
+📈 [1161/1751] LKUA01_part217.fasta
+📈 [1171/1751] AGQN01_part287.fasta
+📈 [1181/1751] LKUB01_part175.fasta
+📈 [1191/1751] LKUA01_part134.fasta
+📈 [1201/1751] pUC19_part62.fasta
+📈 [1211/1751] AGQN01_part312.fasta
+📈 [1221/1751] LKUB01_part82.fasta
+📈 [1231/1751] LKUA01_part183.fasta
+📈 [1241/1751] AGQN01_part69.fasta
+📈 [1251/1751] pUC19_part159.fasta
+📈 [1261/1751] pUC19_part21.fasta
+📈 [1271/1751] AGQN01_part225.fasta
+📈 [1281/1751] LKUA01_part246.fasta
+📈 [1291/1751] AGQN01_part205.fasta
+📈 [1301/1751] sv40_contigs.fasta
+📈 [1311/1751] sars_cov_1_spike.fasta
+📈 [1321/1751] hiv-2-rod.fasta
+📈 [1331/1751] early_hiv_1978_796.fasta
+📈 [1341/1751] public_validation_combined.fasta
+📈 [1351/1751] NMDOH_144_PZ212786.1.fasta
+📈 [1361/1751] NMDOH_032_PZ225514.1.fasta
+📈 [1371/1751] NMDOH_315_PZ038814.1.fasta
+📈 [1381/1751] NMDOH_022_PZ225524.1.fasta
+📈 [1391/1751] NMDOH_299_PZ038830.1.fasta
+📈 [1401/1751] NMDOH_199_PZ212731.1.fasta
+📈 [1411/1751] NMDOH_134_PZ222096.1.fasta
+📈 [1421/1751] NMDOH_281_PZ038848.1.fasta
+📈 [1431/1751] NMDOH_060_PZ225486.1.fasta
+📈 [1441/1751] NMDOH_064_PZ225482.1.fasta
+📈 [1451/1751] NMDOH_183_PZ212747.1.fasta
+📈 [1461/1751] NMDOH_016_PZ225530.1.fasta
+📈 [1471/1751] NMDOH_117_PZ222113.1.fasta
+📈 [1481/1751] NMDOH_191_PZ212739.1.fasta
+📈 [1491/1751] NMDOH_111_PZ222119.1.fasta
+📈 [1501/1751] NMDOH_241_PZ038888.1.fasta
+📈 [1511/1751] NMDOH_098_PZ222132.1.fasta
+📈 [1521/1751] NMDOH_158_PZ212772.1.fasta
+📈 [1531/1751] NMDOH_153_PZ212777.1.fasta
+📈 [1541/1751] NMDOH_042_PZ225504.1.fasta
+📈 [1551/1751] NMDOH_207_PZ212723.1.fasta
+📈 [1561/1751] NMDOH_080_PZ222150.1.fasta
+📈 [1571/1751] NMDOH_057_PZ225489.1.fasta
+📈 [1581/1751] NMDOH_272_PZ038857.1.fasta
+📈 [1591/1751] NMDOH_276_PZ038853.1.fasta
+📈 [1601/1751] NMDOH_220_PZ038909.1.fasta
+📈 [1611/1751] NMDOH_154_PZ212776.1.fasta
+📈 [1621/1751] NMDOH_198_PZ212732.1.fasta
+📈 [1631/1751] NMDOH_088_PZ222142.1.fasta
+📈 [1641/1751] NMDOH_166_PZ212764.1.fasta
+📈 [1651/1751] NMDOH_116_PZ222114.1.fasta
+📈 [1661/1751] NMDOH_046_PZ225500.1.fasta
+📈 [1671/1751] NMDOH_177_PZ212753.1.fasta
+📈 [1681/1751] NMDOH_110_PZ222120.1.fasta
+📈 [1691/1751] human_prnp.fasta
+📈 [1701/1751] sars_cov_2_delta.fasta
+📈 [1711/1751] MN908947.3_Wuhan_Hu_1_original.fasta
+📈 [1721/1751] pax6_cdna.fasta
+📈 [1731/1751] B_anthracis_contigs.fasta
+📈 [1741/1751] prot.fasta
+📈 [1751/1751] D_pseudoobscura_contigs.fasta
+
+======================================================================
+📊 FCS/PRRA DETECTION REPORT
+======================================================================
+✅ CSV saved: FCS_DETECTION.csv
+✅ JSON saved: FCS_DETECTION.json
+
+📈 FCS STATISTICS:
+  Total sequences: 1746
+  PRRA detected: 480
+  Priority variants: 9
+  RRAR variants: 403
+  RRRA variants (Delta P681R): 0
+
+🔬 SEQUENCES WITH PRRA DETECTED:
+  - POSITIVE_CONTROL_2P_Stabilized_Wuhan_Spike         Variants: 2
+  - POSITIVE_CONTROL_6P_HexaPro_Stabilized_Wuhan_Spike Variants: 2
+  - NC_045512.2:21563-25384                            Variants: 2
+  - SARS-CoV-2_Delta_B_1_617_2_Spike                   Variants: 2
+  - SARS-CoV-2_Omicron_BA_2_Spike                      Variants: 2
+  - SARS-CoV-2_Omicron_BA_3_2_(PROXY)_Spike            Variants: 2
+  - SARS-CoV-2_Omicron_BA_5_Spike                      Variants: 2
+  - SARS-CoV-2_Wuhan_Spike                             Variants: 2
+  - SARS-CoV-2_Omicron_BA_1_Spike                      Variants: 2
+  - SARS-CoV-2_Wuhan_Spike                             Variants: 2
+  - OR134577.1                                         Variants: 1
+  - NC_045512.2                                        Variants: 2
+  - OR134577.1                                         Variants: 1
+  - Figure1_032321_Spike-encoding_contig_assembled_fro Variants: 1
+  - PZ213070.1                                         Variants: 1
+  - PZ212778.1                                         Variants: 1
+  - PZ212775.1                                         Variants: 1
+  - PZ212774.1                                         Variants: 1
+  - PZ212771.1                                         Variants: 1
+  - PZ212782.1                                         Variants: 1
+  - PZ212785.1                                         Variants: 1
+  - PZ212781.1                                         Variants: 1
+  - PZ212784.1                                         Variants: 1
+  - OQ771800.1                                         Variants: 1
+  - PZ212770.1                                         Variants: 1
+  - PZ212776.1                                         Variants: 1
+  - PZ212772.1                                         Variants: 1
+  - PZ212777.1                                         Variants: 1
+  - PZ212780.1                                         Variants: 1
+  - PZ212773.1                                         Variants: 1
+  - PZ212779.1                                         Variants: 1
+  - PZ212783.1                                         Variants: 1
+  - PZ212787.1                                         Variants: 1
+  - PZ212786.1                                         Variants: 1
+  - ON673097.1                                         Variants: 1
+  - PZ212769.1                                         Variants: 1
+  - SARS-CoV-2_Wuhan_Spike                             Variants: 2
+  - NC_045512.2                                        Variants: 2
+  - NC_045512.2                                        Variants: 2
+  - NC_045512.2                                        Variants: 2
+  - SARS-CoV-2_Delta_B_1_617_2_Spike                   Variants: 2
+  - SARS-CoV-2_Omicron_BA_2_Spike                      Variants: 2
+  - SARS-CoV-2_Omicron_BA_3_2_(PROXY)_Spike            Variants: 2
+  - SARS-CoV-2_Omicron_BA_5_Spike                      Variants: 2
+  - SARS-CoV-2_Wuhan_Spike                             Variants: 2
+  - SARS-CoV-2_Omicron_BA_1_Spike                      Variants: 2
+  - NC_000913.3                                        Variants: 176
+  - NC_003888.3                                        Variants: 4244
+  - NC_000964.3                                        Variants: 44
+  - NC_002695.2                                        Variants: 193
+  - NC_000913.3                                        Variants: 176
+  - NC_009665.1                                        Variants: 106
+  - NC_014828.1                                        Variants: 404
+  - NC_002663.1                                        Variants: 19
+  - NC_003424.3                                        Variants: 33
+  - NC_001148.4                                        Variants: 8
+  - SARS-CoV-2_Wuhan_Spike                             Variants: 2
+  - OR134577.1                                         Variants: 1
+  - NC_045512.2                                        Variants: 2
+  - OR134577.1                                         Variants: 1
+  - NC_000013.11:32315058-32400268                     Variants: 1
+  - NC_000017.11:43044295-43125483                     Variants: 4
+  - NC_000013.11:48303735-48481674                     Variants: 8
+  - NC_000010.11:87863113-87971930                     Variants: 3
+  - NC_000017.11:7661779-7687550                       Variants: 1
+  - NC_000012.12:49309281-49313198                     Variants: 1
+  - NC_000007.14:5526796-5530304                       Variants: 1
+  - NC_000008.11:127735434-127742951                   Variants: 1
+  - NC_000007.14:55019017-55211628                     Variants: 6
+  - NC_000012.12:25245350-25250729                     Variants: 1
+  - NC_000007.14:140719327-140924929                   Variants: 7
+  - NC_000003.12:179148114-179242973                   Variants: 2
+  - NC_000011.10:111995174-112006229                   Variants: 1
+  - NC_000001.11:17334530-17362564                     Variants: 1
+  - NC_000023.11:76759300-77149552                     Variants: 4
+  - NC_000019.10:10858970-11066015                     Variants: 24
+  - MK998835.1                                         Variants: 1
+  - PZ040055.1                                         Variants: 1
+  - PV202161.1                                         Variants: 1
+  - MT600768.1                                         Variants: 1
+  - PP810928.1                                         Variants: 1
+  - CY263778.1                                         Variants: 1
+  - PV724361.1                                         Variants: 1
+  - MG919967.1                                         Variants: 1
+  - PP640384.1                                         Variants: 1
+  - PV725361.1                                         Variants: 1
+  - PX323416.1                                         Variants: 1
+  - MK380390.1                                         Variants: 1
+  - OR134577.1                                         Variants: 1
+  - Wuhan_WT                                           Variants: 2
+  - HexaPro                                            Variants: 2
+  - 2P_Vaccine                                         Variants: 2
+  - HexaPro                                            Variants: 2
+  - gi|1098495440|gb|MNPR01001001.1|                   Variants: 1
+  - LKUA01070001.1                                     Variants: 1
+  - AGQN01015001.1                                     Variants: 1
+  - BM736143.1                                         Variants: 1
+  - AGQN01110001.1                                     Variants: 1
+  - DQ123905.1                                         Variants: 1
+  - BZ777868.1                                         Variants: 1
+  - AGQN01044001.1                                     Variants: 1
+  - PX910745.1                                         Variants: 1
+  - gi|1098492825|gb|MNPR01003001.1|                   Variants: 1
+  - gi|1098491226|gb|MNPR01004001.1|                   Variants: 1
+  - LKUB01017001.1                                     Variants: 1
+  - PZ221223.1                                         Variants: 1
+  - gi|1098485374|gb|MNPR01007001.1|                   Variants: 1
+  - LKUA01264001.1                                     Variants: 1
+  - LKUB01107001.1                                     Variants: 1
+  - gi|1098497153|gb|MNPR01000001.1|                   Variants: 2
+  - CC158991.1                                         Variants: 1
+  - LKUA01026001.1                                     Variants: 1
+  - PZ079175.1                                         Variants: 1
+  - CC159991.1                                         Variants: 1
+  - OR134577.1                                         Variants: 1
+  - NC_045512.2:21563-25384                            Variants: 2
+  - PZ221223.1                                         Variants: 1
+  - OK120840.1                                         Variants: 2
+  - NC_045512.2:21563-25384                            Variants: 2
+  - OR134577.1                                         Variants: 1
+  - OR134577.1                                         Variants: 1
+  - OR134577.1                                         Variants: 1
+  - PZ212778.1                                         Variants: 1
+  - PZ222154.1                                         Variants: 1
+  - PZ225537.1                                         Variants: 1
+  - PZ225544.1                                         Variants: 1
+  - PZ038877.1                                         Variants: 1
+  - PZ222101.1                                         Variants: 1
+  - PZ212786.1                                         Variants: 1
+  - PZ212751.1                                         Variants: 1
+  - PZ212715.1                                         Variants: 1
+  - PZ225541.1                                         Variants: 1
+  - PZ225505.1                                         Variants: 1
+  - PZ212768.1                                         Variants: 1
+  - PZ225522.1                                         Variants: 1
+  - PZ038904.1                                         Variants: 1
+  - PZ038855.1                                         Variants: 1
+  - PZ225545.1                                         Variants: 1
+  - PZ225514.1                                         Variants: 1
+  - PZ225534.1                                         Variants: 1
+  - PZ225498.1                                         Variants: 1
+  - PZ222105.1                                         Variants: 1
+  - PZ038831.1                                         Variants: 1
+  - PZ038900.1                                         Variants: 1
+  - PZ212770.1                                         Variants: 1
+  - PZ225535.1                                         Variants: 1
+  - PZ212754.1                                         Variants: 1
+  - PZ225538.1                                         Variants: 1
+  - PZ038814.1                                         Variants: 1
+  - PZ212714.1                                         Variants: 1
+  - PZ038820.1                                         Variants: 1
+  - PZ222091.1                                         Variants: 1
+  - PZ225539.1                                         Variants: 1
+  - PZ212742.1                                         Variants: 1
+  - PZ038824.1                                         Variants: 1
+  - PZ038911.1                                         Variants: 1
+  - PZ225513.1                                         Variants: 1
+  - PZ212748.1                                         Variants: 1
+  - PZ225524.1                                         Variants: 1
+  - PZ225497.1                                         Variants: 1
+  - PZ222133.1                                         Variants: 1
+  - PZ222127.1                                         Variants: 1
+  - PZ038827.1                                         Variants: 1
+  - PZ038828.1                                         Variants: 1
+  - PZ038810.1                                         Variants: 1
+  - PZ038798.1                                         Variants: 1
+  - PZ038884.1                                         Variants: 1
+  - PZ038818.1                                         Variants: 1
+  - PZ038830.1                                         Variants: 1
+  - PZ038795.1                                         Variants: 1
+  - PZ225509.1                                         Variants: 1
+  - PZ212767.1                                         Variants: 1
+  - PZ212779.1                                         Variants: 1
+  - PZ038903.1                                         Variants: 1
+  - PZ225520.1                                         Variants: 1
+  - PZ225528.1                                         Variants: 1
+  - PZ038858.1                                         Variants: 1
+  - PZ038805.1                                         Variants: 1
+  - PZ212731.1                                         Variants: 1
+  - PZ038868.1                                         Variants: 1
+  - PZ212787.1                                         Variants: 1
+  - PZ038865.1                                         Variants: 1
+  - PZ222122.1                                         Variants: 1
+  - PZ038796.1                                         Variants: 1
+  - PZ212759.1                                         Variants: 1
+  - PZ038864.1                                         Variants: 1
+  - PZ212736.1                                         Variants: 1
+  - PZ038847.1                                         Variants: 1
+  - PZ222096.1                                         Variants: 1
+  - PZ038849.1                                         Variants: 1
+  - PZ225491.1                                         Variants: 1
+  - PZ222117.1                                         Variants: 1
+  - PZ222134.1                                         Variants: 1
+  - PZ038851.1                                         Variants: 1
+  - PZ222104.1                                         Variants: 1
+  - PZ212727.1                                         Variants: 1
+  - PZ038882.1                                         Variants: 1
+  - PZ038848.1                                         Variants: 1
+  - PZ038811.1                                         Variants: 1
+  - PZ038872.1                                         Variants: 1
+  - PZ038862.1                                         Variants: 1
+  - PZ212740.1                                         Variants: 1
+  - PZ222139.1                                         Variants: 1
+  - PZ222121.1                                         Variants: 1
+  - PZ225536.1                                         Variants: 1
+  - PZ225471.1                                         Variants: 1
+  - PZ038898.1                                         Variants: 1
+  - PZ225486.1                                         Variants: 1
+  - PZ212735.1                                         Variants: 1
+  - PZ222128.1                                         Variants: 1
+  - PZ038846.1                                         Variants: 1
+  - PZ222107.1                                         Variants: 1
+  - PZ222138.1                                         Variants: 1
+  - PZ225545.1                                         Variants: 1
+  - PZ038895.1                                         Variants: 1
+  - PZ222149.1                                         Variants: 1
+  - PZ222125.1                                         Variants: 1
+  - PZ225482.1                                         Variants: 1
+  - PZ222099.1                                         Variants: 1
+  - PZ038885.1                                         Variants: 1
+  - PZ038841.1                                         Variants: 1
+  - PZ038801.1                                         Variants: 1
+  - PZ222144.1                                         Variants: 1
+  - PZ222115.1                                         Variants: 1
+  - PZ225510.1                                         Variants: 1
+  - PZ038861.1                                         Variants: 1
+  - PZ222141.1                                         Variants: 1
+  - PZ212747.1                                         Variants: 1
+  - PZ038879.1                                         Variants: 1
+  - PZ038852.1                                         Variants: 1
+  - PZ038902.1                                         Variants: 1
+  - PZ212733.1                                         Variants: 1
+  - PZ212744.1                                         Variants: 1
+  - PZ212766.1                                         Variants: 1
+  - PZ225501.1                                         Variants: 1
+  - PZ038863.1                                         Variants: 1
+  - PZ225499.1                                         Variants: 1
+  - PZ225530.1                                         Variants: 1
+  - PZ222090.1                                         Variants: 1
+  - PZ038836.1                                         Variants: 1
+  - PZ038833.1                                         Variants: 1
+  - PZ225507.1                                         Variants: 1
+  - PZ038874.1                                         Variants: 1
+  - PZ225545.1                                         Variants: 1
+  - PZ225506.1                                         Variants: 1
+  - PZ222124.1                                         Variants: 1
+  - PZ212745.1                                         Variants: 1
+  - PZ222113.1                                         Variants: 1
+  - PZ212756.1                                         Variants: 1
+  - PZ225474.1                                         Variants: 1
+  - PZ038871.1                                         Variants: 1
+  - PZ038843.1                                         Variants: 1
+  - PZ222112.1                                         Variants: 1
+  - PZ038802.1                                         Variants: 1
+  - PZ212728.1                                         Variants: 1
+  - PZ038806.1                                         Variants: 1
+  - PZ038854.1                                         Variants: 1
+  - PZ212739.1                                         Variants: 1
+  - PZ225523.1                                         Variants: 1
+  - PZ225519.1                                         Variants: 1
+  - PZ212734.1                                         Variants: 1
+  - PZ222140.1                                         Variants: 1
+  - PZ038870.1                                         Variants: 1
+  - PZ225484.1                                         Variants: 1
+  - PZ222093.1                                         Variants: 1
+  - PZ212724.1                                         Variants: 1
+  - PZ038819.1                                         Variants: 1
+  - PZ222119.1                                         Variants: 1
+  - PZ225490.1                                         Variants: 1
+  - PZ038804.1                                         Variants: 1
+  - PZ212755.1                                         Variants: 1
+  - PZ038906.1                                         Variants: 1
+  - PZ038891.1                                         Variants: 1
+  - PZ222111.1                                         Variants: 1
+  - PZ212785.1                                         Variants: 1
+  - PZ038856.1                                         Variants: 1
+  - PZ038883.1                                         Variants: 1
+  - PZ038888.1                                         Variants: 1
+  - PZ212717.1                                         Variants: 1
+  - PZ038838.1                                         Variants: 1
+  - PZ212757.1                                         Variants: 1
+  - PZ225527.1                                         Variants: 1
+  - PZ225480.1                                         Variants: 1
+  - PZ222092.1                                         Variants: 1
+  - PZ038822.1                                         Variants: 1
+  - PZ038821.1                                         Variants: 1
+  - PX787940.1                                         Variants: 1
+  - PZ222132.1                                         Variants: 1
+  - PZ038794.1                                         Variants: 1
+  - PZ038803.1                                         Variants: 1
+  - PZ038842.1                                         Variants: 1
+  - PZ038832.1                                         Variants: 1
+  - PZ038908.1                                         Variants: 1
+  - PZ225479.1                                         Variants: 1
+  - PZ222102.1                                         Variants: 1
+  - PZ225472.1                                         Variants: 1
+  - PZ038905.1                                         Variants: 1
+  - PZ212772.1                                         Variants: 1
+  - PZ038907.1                                         Variants: 1
+  - PZ038837.1                                         Variants: 1
+  - PZ225493.1                                         Variants: 1
+  - PZ038859.1                                         Variants: 1
+  - PZ038834.1                                         Variants: 1
+  - PZ038825.1                                         Variants: 1
+  - PZ222108.1                                         Variants: 1
+  - PZ212729.1                                         Variants: 1
+  - PZ212762.1                                         Variants: 1
+  - PZ212777.1                                         Variants: 1
+  - PZ222088.1                                         Variants: 1
+  - PZ222146.1                                         Variants: 1
+  - PZ225481.1                                         Variants: 1
+  - PZ222129.1                                         Variants: 1
+  - PZ038826.1                                         Variants: 1
+  - PZ225496.1                                         Variants: 1
+  - PZ212769.1                                         Variants: 1
+  - PZ225511.1                                         Variants: 1
+  - PZ212761.1                                         Variants: 1
+  - PZ225504.1                                         Variants: 1
+  - PZ212738.1                                         Variants: 1
+  - PZ212746.1                                         Variants: 1
+  - PZ038797.1                                         Variants: 1
+  - PZ225525.1                                         Variants: 1
+  - PZ038899.1                                         Variants: 1
+  - PZ222131.1                                         Variants: 1
+  - PZ038876.1                                         Variants: 1
+  - PZ222110.1                                         Variants: 1
+  - PZ038894.1                                         Variants: 1
+  - PZ212723.1                                         Variants: 1
+  - PZ222094.1                                         Variants: 1
+  - PZ222145.1                                         Variants: 1
+  - PZ038881.1                                         Variants: 1
+  - PZ038823.1                                         Variants: 1
+  - PZ212719.1                                         Variants: 1
+  - PZ038875.1                                         Variants: 1
+  - PZ222137.1                                         Variants: 1
+  - PZ212721.1                                         Variants: 1
+  - PZ038896.1                                         Variants: 1
+  - PZ222150.1                                         Variants: 1
+  - PZ225475.1                                         Variants: 1
+  - PZ038878.1                                         Variants: 1
+  - PZ212760.1                                         Variants: 1
+  - PZ212725.1                                         Variants: 1
+  - PZ225476.1                                         Variants: 1
+  - PZ225545.1                                         Variants: 1
+  - PZ222116.1                                         Variants: 1
+  - PZ212718.1                                         Variants: 1
+  - PZ225516.1                                         Variants: 1
+  - PZ225489.1                                         Variants: 1
+  - PZ222100.1                                         Variants: 1
+  - PZ222098.1                                         Variants: 1
+  - PZ225494.1                                         Variants: 1
+  - PZ222097.1                                         Variants: 1
+  - PZ038809.1                                         Variants: 1
+  - PZ225473.1                                         Variants: 1
+  - PZ038817.1                                         Variants: 1
+  - PZ038860.1                                         Variants: 1
+  - PZ038844.1                                         Variants: 1
+  - PZ038857.1                                         Variants: 1
+  - PZ212765.1                                         Variants: 1
+  - PZ212713.1                                         Variants: 1
+  - PZ222153.1                                         Variants: 1
+  - PZ212737.1                                         Variants: 1
+  - PZ225542.1                                         Variants: 1
+  - PZ225483.1                                         Variants: 1
+  - PZ225502.1                                         Variants: 1
+  - PZ038850.1                                         Variants: 1
+  - PZ222143.1                                         Variants: 1
+  - PZ038853.1                                         Variants: 1
+  - PZ225485.1                                         Variants: 1
+  - PZ212743.1                                         Variants: 1
+  - PZ225521.1                                         Variants: 1
+  - PZ222109.1                                         Variants: 1
+  - PZ038845.1                                         Variants: 1
+  - PZ222123.1                                         Variants: 1
+  - PZ225540.1                                         Variants: 1
+  - PZ225478.1                                         Variants: 1
+  - PZ038816.1                                         Variants: 1
+  - PZ038909.1                                         Variants: 1
+  - PZ212720.1                                         Variants: 1
+  - PZ038807.1                                         Variants: 1
+  - PZ038901.1                                         Variants: 1
+  - PZ038886.1                                         Variants: 1
+  - PZ212758.1                                         Variants: 1
+  - PZ222095.1                                         Variants: 1
+  - PZ212730.1                                         Variants: 1
+  - PZ225477.1                                         Variants: 1
+  - PZ222152.1                                         Variants: 1
+  - PZ212776.1                                         Variants: 1
+  - PZ212726.1                                         Variants: 1
+  - PZ038812.1                                         Variants: 1
+  - PZ038835.1                                         Variants: 1
+  - PZ222126.1                                         Variants: 1
+  - PZ225495.1                                         Variants: 1
+  - PZ038839.1                                         Variants: 1
+  - PZ222135.1                                         Variants: 1
+  - PZ222089.1                                         Variants: 1
+  - PZ225526.1                                         Variants: 1
+  - PZ212732.1                                         Variants: 1
+  - PZ212763.1                                         Variants: 1
+  - PZ225487.1                                         Variants: 1
+  - PZ225532.1                                         Variants: 1
+  - PZ038890.1                                         Variants: 1
+  - PZ212784.1                                         Variants: 1
+  - PZ212773.1                                         Variants: 1
+  - PZ222136.1                                         Variants: 1
+  - PZ212781.1                                         Variants: 1
+  - PZ225531.1                                         Variants: 1
+  - PZ222142.1                                         Variants: 1
+  - PZ222147.1                                         Variants: 1
+  - PZ212774.1                                         Variants: 1
+  - PZ222151.1                                         Variants: 1
+  - PZ038800.1                                         Variants: 1
+  - PZ225529.1                                         Variants: 1
+  - PZ038815.1                                         Variants: 1
+  - PZ225518.1                                         Variants: 1
+  - PZ038808.1                                         Variants: 1
+  - PZ225492.1                                         Variants: 1
+  - PZ212764.1                                         Variants: 1
+  - PZ222106.1                                         Variants: 1
+  - PZ038889.1                                         Variants: 1
+  - PZ212780.1                                         Variants: 1
+  - PZ222130.1                                         Variants: 1
+  - PZ212741.1                                         Variants: 1
+  - PZ038887.1                                         Variants: 1
+  - PZ212771.1                                         Variants: 1
+  - PZ038880.1                                         Variants: 1
+  - PZ038869.1                                         Variants: 1
+  - PZ222114.1                                         Variants: 1
+  - PZ225512.1                                         Variants: 1
+  - PZ038873.1                                         Variants: 1
+  - PZ212775.1                                         Variants: 1
+  - PZ038799.1                                         Variants: 1
+  - PZ212752.1                                         Variants: 1
+  - PZ222148.1                                         Variants: 1
+  - PZ038893.1                                         Variants: 1
+  - PZ038892.1                                         Variants: 1
+  - PZ038867.1                                         Variants: 1
+  - PZ225500.1                                         Variants: 1
+  - PZ225503.1                                         Variants: 1
+  - PZ212749.1                                         Variants: 1
+  - PZ038829.1                                         Variants: 1
+  - PZ212782.1                                         Variants: 1
+  - PZ212722.1                                         Variants: 1
+  - PZ038840.1                                         Variants: 1
+  - PZ038897.1                                         Variants: 1
+  - PZ225533.1                                         Variants: 1
+  - PZ225543.1                                         Variants: 1
+  - PZ212753.1                                         Variants: 1
+  - PZ212716.1                                         Variants: 1
+  - PZ225508.1                                         Variants: 1
+  - PZ222118.1                                         Variants: 1
+  - PZ212783.1                                         Variants: 1
+  - PZ038866.1                                         Variants: 1
+  - PZ225515.1                                         Variants: 1
+  - PZ038813.1                                         Variants: 1
+  - PZ225488.1                                         Variants: 1
+  - PZ222103.1                                         Variants: 1
+  - PZ222120.1                                         Variants: 1
+  - PZ038910.1                                         Variants: 1
+  - PZ212750.1                                         Variants: 1
+  - PZ225517.1                                         Variants: 1
+  - OR134577.1                                         Variants: 1
+  - NC_045512.2:21563-25384                            Variants: 2
+  - OK120840.1                                         Variants: 2
+  - NC_045512.2:21563-25384                            Variants: 2
+  - OR134577.1                                         Variants: 1
+  - MN908947.3                                         Variants: 2
+  - MT246667.1                                         Variants: 2
+  - MT020881.1                                         Variants: 2
+  - NC_045512.2                                        Variants: 2
+  - H_pylori26695_Eslice                               Variants: 1
+  - H_pyloriJ99_Eslice                                 Variants: 3
+  - H_pyloriJ99_Bslice                                 Variants: 1
+  - B_anthracis_Mslice                                 Variants: 1
+  - H_pylori26695_Bslice                               Variants: 1
+  - H_pylori26695_Eslice                               Variants: 1
+  - H_pyloriJ99_Eslice                                 Variants: 3
+  - H_pyloriJ99_Bslice                                 Variants: 1
+  - B_anthracis_Mslice                                 Variants: 1
+  - H_pylori26695_Bslice                               Variants: 1
+
+✅ FCS DETECTION COMPLETE!
