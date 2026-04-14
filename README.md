@@ -71,11 +71,9 @@ Other/No FCS detected: 0
 
 ## Notes
 
-- **P681R history:** First identified in Delta variant (2020), absent from all circulating lineages since late 2021
-- **Resurgence:** These 26 sequences represent the first documented re-emergence of P681R via convergent evolution
-- **Context:** Omicron and subsequent variants replaced Delta without P681R; its reappearance is notable
-- This analysis reports nucleotide pattern matches
-- No claims are made about functional effects
+- **P681R in Delta:** This mutation was characteristic of the 2021 Delta variant, where it enhanced furin cleavage efficiency and viral fitness
+- **Resurgence:** Re-detection of P681R in 2025-2026 after years of rarity in dominant Omicron lineages illustrates convergent evolution at a functionally important site
+- **Context:** The S1/S2 furin cleavage site is a well-established determinant of viral entry; P681R has been shown to increase cleavage efficiency
 - Sequences are public genomic surveillance data with no patient identifiers
 - Full methodology available in `docs/methodology.md`
 
