@@ -23,7 +23,7 @@ The analysis scans nucleotide sequences for the P681R mutation at the furin clea
 - Wildtype: `CCTCGGCGGGCA` (translates to PRRA amino acids)
 - P681R: `CCTCGTCGGCGGGCACGT` (translates to PRRAR amino acids)
 
-**Note:** P681R is a point mutation (CCT→CGT substitution) that produces the RRRAR motif in translation. This is the same mutation present in the Delta variant (first identified in 2020) and has been tracked globally for over five years.
+**Note:** P681R is a point mutation (CCT→CGT substitution) that produces the RRRAR motif in translation. This mutation was characteristic of the Delta variant (dominant mid-2021 to late 2021) but has been absent from all circulating lineages since Omicron replaced Delta. The NMDOH sequences represent the first documented resurgence of P681R.
 
 **Detection Logic:**
 ```python
@@ -79,8 +79,9 @@ Expected output: `26/260 sequences with P681R mutation`
 
 ## Technical Notes
 
-- P681R is a well-documented mutation, first identified in Delta (2020)
+- **P681R history:** Characteristic mutation of Delta variant (dominant mid-2021 to late 2021)
+- **Absence:** No circulating lineages carried P681R from late 2021 through 2024 (Omicron era)
+- **Resurgence:** NMDOH sequences (2025-2026) represent first re-emergence of P681R via convergent evolution
 - Detection via nucleotide pattern matching
-- The NMDOH sequences showing P681R represent convergent evolution
-- This is not a novel variant or insertion
+- This is not a novel mutation, but its resurgence after 3+ years is notable
 - FCS position approximately 23,500 in full genome reference
