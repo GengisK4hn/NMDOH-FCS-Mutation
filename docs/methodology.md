@@ -23,7 +23,7 @@ The analysis scans nucleotide sequences for the P681R mutation at the furin clea
 - Wildtype: `CCTCGGCGGGCA` (translates to PRRA amino acids)
 - P681R: `CCTCGTCGGCGGGCACGT` (translates to PRRAR amino acids)
 
-**Note:** P681R is a point mutation (CCT→CGT substitution) that produces the RRRAR motif at the S1/S2 furin cleavage site. This mutation was characteristic of the 2021 Delta variant, where it enhanced furin cleavage efficiency and fitness. Its re-detection in 2025-2026 NMDOH sequences after years of rarity in dominant Omicron lineages illustrates convergent evolution at a functionally important site.
+**Note:** P681R is a point mutation (CCT→CGT substitution) that produces the RRRAR motif at the S1/S2 furin cleavage site. This mutation was characteristic of the 2021 Delta variant, where it enhanced furin cleavage efficiency and fitness. The NMDOH sequences analyzed here show P681R present in 26/260 samples from 2025-2026.
 
 **Detection Logic:**
 ```python
@@ -81,5 +81,5 @@ Expected output: `26/260 sequences with P681R mutation`
 
 - **P681R functional role:** The S1/S2 furin cleavage site is a well-established determinant of SARS-CoV-2 entry; the P681R substitution (present in Delta) increases cleavage efficiency
 - **Delta context:** P681R was a defining mutation of the Delta variant (2021), contributing to its increased fitness and transmissibility
-- **Resurgence:** Re-detection after years of rarity in Omicron-lineage viruses illustrates convergent evolution at this functional site
+- **NMDOH findings:** This analysis reports P681R in 26/260 NMDOH sequences from 2025-2026
 - Detection via nucleotide pattern matching at position ~23,500 in full genome reference

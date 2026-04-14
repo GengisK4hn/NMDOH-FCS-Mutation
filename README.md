@@ -7,7 +7,6 @@ Analysis of SARS-CoV-2 sequences from New Mexico Department of Health (NMDOH) su
 - **Sequences analyzed:** 260
 - **Source:** NCBI Nucleotide database (New Mexico, 2025-2026)
 - **Finding:** 26 sequences (10.0%) contain P681R mutation
-- **Significance:** First detection of P681R since Delta variant (late 2021)
 - **2026-specific findings:** 3 sequences with P681R
 
 ## FCS Motif Reference
@@ -72,8 +71,9 @@ Other/No FCS detected: 0
 ## Notes
 
 - **P681R in Delta:** This mutation was characteristic of the 2021 Delta variant, where it enhanced furin cleavage efficiency and viral fitness
-- **Resurgence:** Re-detection of P681R in 2025-2026 after years of rarity in dominant Omicron lineages illustrates convergent evolution at a functionally important site
+- **NMDOH findings:** 26/260 sequences (10%) from 2025-2026 carry P681R
 - **Context:** The S1/S2 furin cleavage site is a well-established determinant of viral entry; P681R has been shown to increase cleavage efficiency
+- This analysis reports nucleotide pattern matches in NMDOH sequences only
 - Sequences are public genomic surveillance data with no patient identifiers
 - Full methodology available in `docs/methodology.md`
 
