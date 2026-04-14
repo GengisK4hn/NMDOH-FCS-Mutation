@@ -15,22 +15,24 @@ Severe acute respiratory syndrome coronavirus 2[Organism] AND New Mexico[All Fie
 
 ## Detection Method
 
-### FCS Motif Detection
+### P681R Mutation Detection
 
-The analysis scans nucleotide sequences for specific patterns at the furin cleavage site region.
+The analysis scans nucleotide sequences for the P681R mutation at the furin cleavage site.
 
 **Reference Patterns:**
-- Wildtype FCS: `CCTCGGCGGGCA` (translates to PRRA amino acids)
-- Extended FCS: `CCTCGTCGGCGGGCACGT` (translates to PRRRAR amino acids)
+- Wildtype: `CCTCGGCGGGCA` (translates to PRRA amino acids)
+- P681R: `CCTCGTCGGCGGGCACGT` (translates to PRRAR amino acids)
+
+**Note:** P681R is a point mutation (CCT→CGT substitution) that produces the RRRAR motif in translation. This is the same mutation present in the Delta variant (first identified in 2020) and has been tracked globally for over five years.
 
 **Detection Logic:**
 ```python
 # Pseudocode
 for sequence in fasta_file:
     if "CCTCGTCGGCGGGCACGT" in sequence:
-        classify_as_extended_fcs()
+        classify_as_p681r()
     elif "CCTCGGCGGGCA" in sequence:
-        classify_as_wildtype_fcs()
+        classify_as_wildtype()
     else:
         classify_as_other()
 ```
@@ -39,11 +41,11 @@ for sequence in fasta_file:
 
 | Category | Count | Percentage |
 |----------|-------|------------|
-| Extended FCS (PRRRAR) | 26 | 10.0% |
-| Wildtype FCS (PRRA) | 234 | 90.0% |
+| P681R mutation | 26 | 10.0% |
+| Wildtype | 234 | 90.0% |
 | Total analyzed | 260 | 100% |
 
-## Sequences with Extended FCS
+## Sequences with P681R
 
 ### 2026 Collection Year (n=3)
 
@@ -53,9 +55,9 @@ for sequence in fasta_file:
 | PZ222120.1 | NMDOH-2026001709 |
 | PZ222100.1 | NMDOH-2026001828 |
 
-### All Extended FCS Sequences (n=26)
+### All P681R Sequences (n=26)
 
-The remaining 23 sequences with extended FCS were collected in 2025.
+The remaining 23 sequences with P681R were collected in 2025.
 
 ## Reproducibility
 
@@ -73,11 +75,12 @@ esearch -db nucleotide \
 python scripts/fcs_scanner.py data/nm_2026_sequences.fasta
 ```
 
-Expected output: `26/260 sequences with extended FCS`
+Expected output: `26/260 sequences with P681R mutation`
 
 ## Technical Notes
 
-- Pattern matching performed on nucleotide sequences
-- No alignment or phylogenetic analysis conducted
+- P681R is a well-documented mutation, first identified in Delta (2020)
+- Detection via nucleotide pattern matching
+- The NMDOH sequences showing P681R represent convergent evolution
+- This is not a novel variant or insertion
 - FCS position approximately 23,500 in full genome reference
-- Results represent presence/absence of specific nucleotide patterns

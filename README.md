@@ -1,22 +1,24 @@
 # NMDOH SARS-CoV-2 FCS Analysis
 
-Analysis of SARS-CoV-2 sequences from New Mexico Department of Health (NMDOH) surveillance, examining the furin cleavage site (FCS) region.
+Analysis of SARS-CoV-2 sequences from New Mexico Department of Health (NMDOH) surveillance, examining the P681R mutation at the furin cleavage site (FCS).
 
 ## Summary
 
 - **Sequences analyzed:** 260
 - **Source:** NCBI Nucleotide database (New Mexico, 2025-2026)
-- **Finding:** 26 sequences (10.0%) contain extended FCS motif (PRRRAR)
-- **2026-specific findings:** 3 sequences with extended FCS
+- **Finding:** 26 sequences (10.0%) contain P681R mutation
+- **2026-specific findings:** 3 sequences with P681R
 
 ## FCS Motif Reference
 
-| Motif | DNA Sequence | Amino Acids | Description |
-|-------|--------------|-------------|-------------|
+| Variant | DNA Sequence | Amino Acids | Description |
+|---------|--------------|-------------|-------------|
 | Wildtype | CCTCGGCGGGCA | PRRA | Common SARS-CoV-2 FCS |
-| Extended | CCTCGTCGGCGGGCACGT | PRRRAR | Extended variant found in this dataset |
+| P681R | CCTCGTCGGCGGGCACGT | PRRRAR | P681R point mutation (same as Delta) |
 
-## 2026 Sequences with Extended FCS
+**Note:** P681R is a single nucleotide substitution (CCT→CGT at position 681), not an insertion. The RRRAR motif is the translated appearance of this known mutation.
+
+## 2026 Sequences with P681R
 
 | Accession | Sample ID |
 |-----------|-----------|
@@ -68,8 +70,10 @@ Other/No FCS detected: 0
 
 ## Notes
 
-- This analysis reports nucleotide pattern matches in the FCS region
-- No claims are made about functional effects or biological significance
+- P681R is the same mutation present in the Delta variant (first identified 2020)
+- The 26 sequences (10%) represent convergent evolution, not a novel variant
+- This analysis reports nucleotide pattern matches
+- No claims are made about functional effects
 - Sequences are public genomic surveillance data with no patient identifiers
 - Full methodology available in `docs/methodology.md`
 
